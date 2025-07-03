@@ -12,10 +12,10 @@ const failedKMLs = [];
   for (let i = 0; i < servicesLen; i++) {
     const { number, type, kmlFile, routeFile } = services[i];
 
-    if (/^-/.test(number) || !/^(CITYDIRECT|TRUNK)$/.test(type)) {
-      console.log(`Skipping ${number} (${type})`);
-      continue;
-    }
+    // if (/^-/.test(number) || !/^(CITYDIRECT|TRUNK)$/.test(type)) {
+    //   console.log(`Skipping ${number} (${type})`);
+    //   continue;
+    // }
 
     for (let k = 0; k < routeFile.length; k++) {
       const fileName = routeFile[k];

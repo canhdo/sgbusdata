@@ -200,5 +200,6 @@ if (
   !routesDiff.length &&
   !flDiff.length
 ) {
-  throw new Error('There are no changes at all!');
+  console.log('✨ No changes detected ✨');
+  process.exit(0); // Exit gracefully
 }

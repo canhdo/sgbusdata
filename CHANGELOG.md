@@ -1,3 +1,1020 @@
+# 1 April 2026
+
+## Stops count change: 5197 ⮕ 5200
+
+### Stops added: 5
+
+- `40461` Blk 308A
+- `40469` Blk 319A
+- `40471` Blk 126A
+- `40479` Blk 307B
+- `70282` Tai Seng S37B Boarding
+
+### Stops removed: 2
+
+- `58301` 3M Bldg
+- `58309` Opp 3M Bldg
+
+### Stop locations changed: 26
+
+- `27461` 103.70513,1.35293 ⮕ 103.70505,1.35323
+- `27469` 103.70487,1.35307 ⮕ 103.70489,1.35295
+- `40391` 103.73319,1.35926 ⮕ 103.73319,1.35926
+- `40399` 103.73424,1.35984 ⮕ 103.73424,1.35984
+- `40401` 103.73121,1.35726 ⮕ 103.73109,1.35711
+- `40409` 103.73181,1.35739 ⮕ 103.73181,1.35739
+- `40411` 103.7293,1.35755 ⮕ 103.7293,1.35755
+- `40419` 103.7294,1.3572 ⮕ 103.7294,1.3572
+- `40441` 103.73349,1.36187 ⮕ 103.73349,1.36187
+- `40449` 103.7335,1.3622 ⮕ 103.7335,1.3622
+- `40451` 103.73591,1.36166 ⮕ 103.73591,1.36166
+- `40459` 103.7356,1.3617 ⮕ 103.7356,1.3617
+- `40491` 103.73365,1.35298 ⮕ 103.73365,1.35298
+- `40499` 103.7334,1.35312 ⮕ 103.7334,1.35312
+- `40501` 103.73188,1.35477 ⮕ 103.73188,1.35477
+- `40509` 103.7322,1.35439 ⮕ 103.7322,1.35439
+- `41009` 103.73597,1.3627 ⮕ 103.73597,1.3627
+- `85101` 103.95072,1.32931 ⮕ 103.95069,1.32929
+- `98281` 103.96616,1.35968 ⮕ 103.9666,1.35957
+- `98289` 103.96664,1.35953 ⮕ 103.96616,1.3597
+- `98291` 103.96519,1.35698 ⮕ 103.96521,1.35695
+- `98299` 103.96557,1.35588 ⮕ 103.96556,1.35601
+- `98301` 103.96488,1.36001 ⮕ 103.9644,1.36013
+- `98309` 103.96474,1.35996 ⮕ 103.96442,1.36011
+- `98311` 103.96849,1.35931 ⮕ 103.9686,1.35925
+- `98319` 103.96846,1.35924 ⮕ 103.96841,1.35927
+
+## Services count change: 589 ⮕ 599
+
+### Services added: 10
+
+- `457` Opp Hougang Ctrl Int / Hougang Ctrl Int ⇄ Aft Tai Seng Stn / Aft Tai Seng Stn Exit C
+- `458` Opp Sengkang Stn/Blk 260A / Sengkang Stn ⇄ Aft Tai Seng Stn / Aft Tai Seng Stn Exit C
+- `18A` Tampines Nth Int → Tampines East Stn Exit D
+- `43A` Punggol Int → S'goon Stn Exit C/Blk 201
+- `831G` Tengah Int ⟲ Aft Plantation Cres
+- `831W` Tengah Int ⟲ Bef Plantation Cres
+- `S37A` S'Goon Stn Exit B → Paya Lebar Stn Exit B
+- `S37B` Tai Seng S37B Boarding → Bishan Stn
+- `S37C` Aft Tai Seng Stn → S'goon Stn Exit A/Blk 413
+- `S38` Paya Lebar Stn Exit B / Paya Lebar Stn Exit D ⇄ Stadium Stn
+
+### Bus Stop Changes To Routes: 6
+
+- `965T` Woodlands Temp Int → Sengkang Int: -1
+- `969` Woodlands Int ⇄ Tampines Int: -2
+- `965` Woodlands Temp Int ⟲ Sengkang Int: -2
+- `965A` Woodlands Temp Int → Opp Yishun Stn: -1
+- `97` Tengah Int ⇄ Promenade Stn/Pan Pacific / Aft S'pore Flyer: +26, -2
+- `97e` Tengah Int ⇄ Promenade Stn/Pan Pacific / Aft S'pore Flyer: +14, -2
+
+## Routes changed: 62
+
+- `12` Pasir Ris Int ⇄ Kampong Bahru Ter
+- `25` Ang Mo Kio Int ⇄ Upp East Coast Ter
+- `37` Tampines Int ⟲ Seamap
+- `46` Upp East Coast Ter ⇄ Pasir Ris Int
+- `73` Ang Mo Kio Int ⟲ Toa Payoh Int
+- `82` Punggol Int ⟲ S'goon Stn Exit E
+- `83` Punggol Int ⟲ Sengkang Int
+- `86` Compassvale Int ⇄ Ang Mo Kio Int
+- `90` Toa Payoh Int ⟲ Opp Air Force Museum
+- `92` Ghim Moh Ter ⟲ Opp Ayer Rajah Ind Est
+- `96` Clementi Int ⟲ Information Technology
+- `97` Tengah Int ⇄ Promenade Stn/Pan Pacific / Aft S'pore Flyer
+- `121` Shenton Way Ter ⟲ Blk 28
+- `125` St. Michael's Ter ⟲ Bef Lor 23 Geylang
+- `136` Ang Mo Kio Int ⇄ Punggol Int
+- `139` Toa Payoh Int ⇄ Bt Merah Int
+- `151` Hougang Ctrl Int ⇄ Kent Ridge Ter
+- `159` Sengkang Int ⇄ Toa Payoh Int
+- `165` Hougang Ctrl Int ⇄ Clementi Int
+- `175` Clementi Int ⇄ Lor 1 Geylang Ter
+- `177` Bt Batok Int ⟲ Blk 180
+- `228` Bedok Int ⟲ Christ Ch
+- `230` Caldecott Stn Exit 1 → Bef Caldecott Stn Exit 4
+- `261` Ang Mo Kio Int ⟲ Opp Townsville Pr Sch
+- `262` Ang Mo Kio Int ⟲ Blk 255
+- `269` Ang Mo Kio Int ⟲ Blk 645
+- `282` Clementi Int ⟲ Blk 723
+- `284` Clementi Int ⟲ Blk 308
+- `307` Choa Chu Kang Int ⟲ Blk 702
+- `371` Sengkang Int ⟲ Rumbia Stn Exit B/Blk 153
+- `518` Pasir Ris Int ⟲ Bef Cairnhill Rd
+- `674` Blk 306B / Blk 321 ⇄ Marina Bay Financial Ctr / Marina Bay Stn
+- `675` Blk 953 / Opp Blk 953 ⇄ Suntec Twr Two / Suntec Twr Three
+- `677` Opp Blk 110 / Blk 111 ⇄ Suntec Twr Two / Suntec Twr Three
+- `871` Tengah Int ⟲ Opp Beauty World Stn
+- `927` Choa Chu Kang Int ⟲ Opp Bird Paradise
+- `969` Woodlands Int ⇄ Tampines Int
+- `974` Joo Koon Int ⟲ Bt Panjang Stn Exit A/LRT
+- `992` Bt Batok Int ⇄ Tengah Int
+- `12e` Pasir Ris Int ⇄ Kampong Bahru Ter
+- `190A` Choa Chu Kang Int → Dhoby Ghaut Stn
+- `258M` Joo Koon Int ⟲ Boon Lay CC
+- `307A` Choa Chu Kang Int → Opp Choa Chu Kang Stn
+- `307T` Opp Choa Chu Kang Stn → Choa Chu Kang Int
+- `518A` Pasir Ris Int → Bayfront Stn Exit A
+- `60T` Eunos Int → Bedok Int
+- `856B` Woodlands Int → Aft Admiral Hill
+- `92B` Kent Ridge Stn Exit B → Kent Ridge Stn
+- `965A` Woodlands Temp Int → Opp Yishun Stn
+- `965T` Woodlands Temp Int → Sengkang Int
+- `974A` Joo Koon Int → Lot 1/Choa Chu Kang Stn
+- `97e` Tengah Int ⇄ Promenade Stn/Pan Pacific / Aft S'pore Flyer
+- `457` Opp Hougang Ctrl Int / Hougang Ctrl Int ⇄ Aft Tai Seng Stn / Aft Tai Seng Stn Exit C
+- `458` Opp Sengkang Stn/Blk 260A / Sengkang Stn ⇄ Aft Tai Seng Stn / Aft Tai Seng Stn Exit C
+- `18A` Tampines Nth Int → Tampines East Stn Exit D
+- `43A` Punggol Int → S'goon Stn Exit C/Blk 201
+- `831G` Tengah Int ⟲ Aft Plantation Cres
+- `831W` Tengah Int ⟲ Bef Plantation Cres
+- `S37A` S'Goon Stn Exit B → Paya Lebar Stn Exit B
+- `S37B` Tai Seng S37B Boarding → Bishan Stn
+- `S37C` Aft Tai Seng Stn → S'goon Stn Exit A/Blk 413
+- `S38` Paya Lebar Stn Exit B / Paya Lebar Stn Exit D ⇄ Stadium Stn
+
+## First/last timings changed
+
+Affected services: `41`, `97`, `167`, `188`, `247`, `853`, `965`, `969`, `976`, `980`, `97e`, `190A`, `965A`, `965T`, `457`, `458`, `831W`, `831G`, `S37B`, `S37A`, `S37C`, `43A`, `S38`
+
+# 1 March 2026
+
+## Stops count change: 5196 ⮕ 5197
+
+### Stops added: 1
+
+- `74951` Blk 962A
+
+### Stop names changed: 1
+
+- `47749` W'lands Health Campus ⮕ W'lands Hosp
+
+### Stop locations changed: 6
+
+- `28221` 103.74494,1.32762 ⮕ 103.74515,1.32719
+- `28239` 103.74285,1.33003 ⮕ 103.74315,1.32972
+- `28301` 103.7403,1.33474 ⮕ 103.74044,1.33486
+- `43081` 103.76573,1.36704 ⮕ 103.76635,1.36625
+- `59069` 103.83537,1.42657 ⮕ 103.83531,1.42591
+- `67759` 103.8972,1.3913 ⮕ 103.89712,1.39122
+
+## Services count change: 588 ⮕ 589
+
+### Services added: 1
+
+- `18M` Opp SBST Bedok Nth Depot → SBST Bedok Nth Depot
+
+## Routes changed: 1
+
+- `18M` Opp SBST Bedok Nth Depot → SBST Bedok Nth Depot
+
+## First/last timings changed
+
+Affected services: `185`, `18M`
+
+# 1 February 2026
+
+## Stops count change: 5194 ⮕ 5196
+
+### Stops added: 2
+
+- `67689` Sengkang Stn Exit C
+- `67759` Compassvale Int
+
+### Stop names changed: 23
+
+- `16091` NUS Sports Ctr ⮕ NUS Sports Centre
+- `16099` Opp NUS Sports Ctr ⮕ Opp NUS Sports Centre
+- `43719` MINDEF CP ⮕ MINDEF Pick-Up/Drop-Off
+- `43721` Blk 319 ⮕ MINDEF Pass Office
+- `45181` Opp Mandai CD Trg Village ⮕ Bef Mandai Quarry Rd
+- `45189` Mandai CD Trg Village ⮕ Aft Mandai Quarry Rd
+- `45191` Opp Mandai Police Trg Camp ⮕ Opp Home Team Tactical Ctr
+- `45199` Mandai Police Trg Camp ⮕ Home Team Tactical Ctr
+- `45201` Opp Police Tactical Trg Camp ⮕ Opp Mandai Hill Camp
+- `45209` Police Tactical Trg Camp ⮕ Aft Mandai Hill Camp
+- `48091` SCDF Nee Soon Camp ⮕ Aft Bath Rd
+- `48099` Opp SCDF Nee Soon Camp ⮕ Aft Mandai Rd Track 7
+- `49101` Opp Ordinance Supply Base ⮕ Aft Kranji Cl
+- `58069` Opp Durban Rd ⮕ Blk 101A
+- `67741` Thanggam Stn ⮕ Thanggam Stn Exit B
+- `68061` Sing-China Bldg ⮕ Aft Mornington Cres
+- `68069` Opp Sing-China Bldg ⮕ Aft Battersea Rd
+- `68111` Bef Seletar Camp G ⮕ Bef Piccadilly Circus/TPE
+- `68119` Aft Seletar Camp G ⮕ Aft Piccadilly Circus/TPE
+- `73049` Air Force Sch ⮕ Air Force Trg Cmd
+- `99011` Bef Sch of Commando ⮕ Bef Hendon Camp
+- `99019` Aft Sch of Commando ⮕ Aft Hendon Camp
+- `05131` Opp Hong Lim Cplx ⮕ Opp Chinatown Stn
+
+### Stop locations changed: 25
+
+- `14249` 103.8173,1.27927 ⮕ 103.8174,1.27947
+- `14519` 103.8257,1.25352 ⮕ 103.82084,1.25671
+- `27261` 103.68632,1.34332 ⮕ 103.68692,1.34378
+- `44519` 103.73971,1.37915 ⮕ 103.741,1.38002
+- `44529` 103.74177,1.38057 ⮕ 103.74205,1.38073
+- `52201` 103.84651,1.33918 ⮕ 103.84675,1.33972
+- `52209` 103.84677,1.33932 ⮕ 103.84669,1.33915
+- `53509` 103.8365,1.35683 ⮕ 103.83669,1.35718
+- `53519` 103.83784,1.35962 ⮕ 103.83802,1.35997
+- `59599` 103.84968,1.42641 ⮕ 103.84969,1.42696
+- `59781` 103.85126,1.42322 ⮕ 103.85111,1.42306
+- `65261` 103.91481,1.39671 ⮕ 103.915,1.39685
+- `65269` 103.91416,1.39718 ⮕ 103.91542,1.39636
+- `70281` 103.888,1.33531 ⮕ 103.88797,1.33545
+- `70289` 103.88869,1.33506 ⮕ 103.88858,1.33505
+- `75411` 103.92906,1.35608 ⮕ 103.92937,1.35661
+- `84051` 103.9389,1.3252 ⮕ 103.93876,1.32521
+- `91091` 103.88437,1.30315 ⮕ 103.88437,1.30316
+- `93031` 103.92938,1.30984 ⮕ 103.92868,1.30963
+- `95011` 103.98406,1.34719 ⮕ 103.98361,1.34612
+- `95019` 103.98488,1.34794 ⮕ 103.98485,1.34798
+- `95029` 103.9907,1.36127 ⮕ 103.99076,1.36111
+- `95109` 103.98635,1.3565 ⮕ 103.98716,1.35738
+- `95129` 103.98922,1.35509 ⮕ 103.98864,1.35533
+- `96021` 103.95664,1.33398 ⮕ 103.95657,1.33394
+
+## Services count change: 587 ⮕ 588
+
+### Services added: 1
+
+- `872A` Tengah Int → Chinese Gdn Stn
+
+### Bus Stop Changes To Routes: 8
+
+- `80` Compassvale Int ⇄ HarbourFront Int: +2, -2
+- `86` Compassvale Int ⇄ Ang Mo Kio Int: +2, -2
+- `87` Compassvale Int ⇄ Bedok Int: +2, -2
+- `372` Compassvale Int ⟲ Blk 235: +3, -2
+- `374` Compassvale Int ⟲ Thanggam Stn Exit B: +3, -2
+- `158A` Aljunied Stn → Opp Aljunied Stn: +2
+- `80A` Compassvale Int → Aljunied Stn: +2, -1
+- `114` Buangkok Int ⇄ Yio Chu Kang Int: +26
+
+## Routes changed: 17
+
+- `73` Ang Mo Kio Int ⟲ Toa Payoh Int
+- `80` Compassvale Int ⇄ HarbourFront Int
+- `86` Compassvale Int ⇄ Ang Mo Kio Int
+- `87` Compassvale Int ⇄ Bedok Int
+- `104` Punggol Coast Int ⇄ Woodleigh Int
+- `114` Buangkok Int ⇄ Yio Chu Kang Int
+- `148` Woodleigh Int ⟲ Blk 121
+- `159` Sengkang Int ⇄ Toa Payoh Int
+- `372` Compassvale Int ⟲ Blk 235
+- `374` Compassvale Int ⟲ Thanggam Stn Exit B
+- `381` Punggol Int ⟲ Blk 656A
+- `983` Choa Chu Kang Int ⟲ Aft Bt Panjang Stn
+- `114A` Buangkok Int → Blk 991B
+- `80A` Compassvale Int → Aljunied Stn
+- `983A` Choa Chu Kang Int → Blk 26
+- `983M` Opp Blk 486 → Aft Teck Whye Walk
+- `872A` Tengah Int → Chinese Gdn Stn
+
+## First/last timings changed
+
+Affected services: `10`, `21`, `30`, `31`, `32`, `33`, `39`, `80`, `86`, `87`, `129`, `151`, `158`, `230`, `232`, `268`, `372`, `374`, `401`, `652`, `805`, `807`, `268C`, `268A`, `268B`, `807A`, `807B`, `21A`, `80A`, `39A`, `39B`, `158A`
+
+# 2 January 2026
+
+## Stops count change: 5179 ⮕ 5194
+
+### Stops added: 17
+
+- `40281` Blk 467B
+- `40289` Opp Blk 467B
+- `43551` Opp Blk 435A
+- `43559` Bef Blk 435A
+- `58469` Opp Innova Pr Sch
+- `62301` Blk 181
+- `62309` Blk 178A
+- `63119` Aft Hougang Ave 1
+- `65799` Blk 654D
+- `66701` Goldenhill Pk Condo
+- `66709` Lor Chuan Stn Exit B
+- `67709` Opp Blk 465A
+- `67749` Thanggam Stn Exit A
+- `69091` Opp Blk 227
+- `74961` Blk 966
+- `74969` Opp Blk 966
+- `74979` Blk 967A
+
+### Stops removed: 2
+
+- `27381` Blk 749
+- `27389` Gek Poh Shop Ctr
+
+### Stop names changed: 1
+
+- `65569` Blk 654D ⮕ Blk 656A
+
+### Stop locations changed: 76
+
+- `17171` 103.76503,1.31497 ⮕ 103.76486,1.31533
+- `21691` 103.71139,1.34108 ⮕ 103.71222,1.34138
+- `21699` 103.71203,1.34155 ⮕ 103.71232,1.34162
+- `22491` 103.70515,1.3367 ⮕ 103.7052,1.33674
+- `22499` 103.70481,1.33719 ⮕ 103.70463,1.33771
+- `27371` 103.70099,1.34751 ⮕ 103.70116,1.34754
+- `27379` 103.70087,1.34805 ⮕ 103.70097,1.34802
+- `27391` 103.69631,1.34843 ⮕ 103.69615,1.3485
+- `27399` 103.6964,1.34866 ⮕ 103.6964,1.34868
+- `28289` 103.73599,1.34239 ⮕ 103.73576,1.34206
+- `28299` 103.73667,1.34438 ⮕ 103.7368,1.34466
+- `28379` 103.72426,1.34514 ⮕ 103.724,1.34508
+- `40181` 103.8383,1.31264 ⮕ 103.83808,1.31247
+- `40359` 103.74091,1.3554 ⮕ 103.7408,1.35559
+- `43601` 103.74951,1.35664 ⮕ 103.74961,1.3566
+- `43609` 103.74992,1.35654 ⮕ 103.75002,1.35666
+- `43779` 103.74177,1.36196 ⮕ 103.7414,1.36151
+- `43781` 103.7386,1.35886 ⮕ 103.73895,1.35911
+- `52189` 103.84678,1.33318 ⮕ 103.84671,1.33321
+- `52199` 103.84664,1.33547 ⮕ 103.84664,1.3355
+- `52209` 103.84678,1.33926 ⮕ 103.84677,1.33932
+- `52579` 103.85803,1.33295 ⮕ 103.85802,1.33337
+- `54391` 103.84829,1.37162 ⮕ 103.8483,1.37155
+- `58461` 103.79045,1.42966 ⮕ 103.79048,1.42966
+- `62061` 103.88178,1.34174 ⮕ 103.88177,1.34175
+- `62069` 103.88161,1.3421 ⮕ 103.88165,1.3419
+- `62241` 103.89114,1.34503 ⮕ 103.89118,1.34507
+- `63039` 103.88538,1.36026 ⮕ 103.8852,1.36004
+- `63269` 103.88906,1.35875 ⮕ 103.88911,1.35868
+- `63281` 103.88988,1.35413 ⮕ 103.88979,1.35415
+- `63289` 103.88966,1.35401 ⮕ 103.88966,1.35394
+- `64541` 103.89261,1.37123 ⮕ 103.89281,1.37124
+- `64549` 103.89171,1.3714 ⮕ 103.89229,1.37148
+- `64551` 103.89074,1.37042 ⮕ 103.89092,1.37035
+- `64559` 103.89081,1.3706 ⮕ 103.89091,1.37055
+- `65101` 103.90874,1.40789 ⮕ 103.90874,1.40789
+- `65109` 103.90882,1.4077 ⮕ 103.90882,1.4077
+- `65301` 103.90963,1.40438 ⮕ 103.90939,1.40452
+- `65321` 103.91659,1.39943 ⮕ 103.91672,1.39927
+- `65569` 103.9192,1.39863 ⮕ 103.92035,1.4002
+- `65691` 103.91196,1.42015 ⮕ 103.91196,1.42015
+- `65699` 103.91203,1.41996 ⮕ 103.91203,1.41996
+- `65701` 103.91108,1.41169 ⮕ 103.91108,1.41169
+- `65709` 103.9105,1.41132 ⮕ 103.9105,1.41132
+- `65711` 103.91168,1.4171 ⮕ 103.91168,1.4171
+- `65719` 103.91203,1.417 ⮕ 103.91158,1.417
+- `65721` 103.91169,1.41494 ⮕ 103.91169,1.41494
+- `65729` 103.91128,1.41468 ⮕ 103.91128,1.41468
+- `66021` 103.86183,1.35097 ⮕ 103.86117,1.35029
+- `66029` 103.86144,1.35017 ⮕ 103.86141,1.35016
+- `66109` 103.87461,1.36998 ⮕ 103.87527,1.36966
+- `66331` 103.87015,1.37173 ⮕ 103.87036,1.37164
+- `66391` 103.86484,1.35097 ⮕ 103.86481,1.35102
+- `66399` 103.86325,1.35149 ⮕ 103.86313,1.35154
+- `66561` 103.88261,1.38349 ⮕ 103.88246,1.38343
+- `66569` 103.88262,1.38327 ⮕ 103.88253,1.3832
+- `67191` 103.89711,1.38909 ⮕ 103.8971,1.38913
+- `67199` 103.89689,1.38895 ⮕ 103.89681,1.38874
+- `67279` 103.89168,1.38809 ⮕ 103.89179,1.38822
+- `67379` 103.88701,1.39273 ⮕ 103.88713,1.39297
+- `67409` 103.89607,1.39234 ⮕ 103.89612,1.39242
+- `67441` 103.89347,1.39231 ⮕ 103.89348,1.39238
+- `67481` 103.87765,1.3915 ⮕ 103.87768,1.39148
+- `67541` 103.88633,1.39478 ⮕ 103.88653,1.39478
+- `67571` 103.87392,1.39516 ⮕ 103.87444,1.39504
+- `67579` 103.87347,1.39484 ⮕ 103.87485,1.39476
+- `67741` 103.87562,1.39713 ⮕ 103.8757,1.39679
+- `70061` 103.87444,1.3375 ⮕ 103.8743,1.33759
+- `76289` 103.93815,1.34739 ⮕ 103.93821,1.34715
+- `78241` 103.95765,1.37211 ⮕ 103.95764,1.37212
+- `81189` 103.88851,1.30821 ⮕ 103.88851,1.30834
+- `81199` 103.89063,1.30863 ⮕ 103.89023,1.30868
+- `82071` 103.89541,1.30725 ⮕ 103.89545,1.30726
+- `82089` 103.8943,1.31086 ⮕ 103.89425,1.31095
+- `82129` 103.89661,1.30943 ⮕ 103.89659,1.3095
+- `09048` 103.83413,1.30387 ⮕ 103.83417,1.30384
+
+## Services count change: 583 ⮕ 587
+
+### Services added: 5
+
+- `679` Opp Blk 471A / Blk 471A ⇄ Suntec Twr Two / Suntec Twr Three
+- `680` Blk 991A / Opp Blk 991A ⇄ Aft Dhoby Ghaut Stn / YMCA
+- `681` Blk 477A / Opp Blk 477A ⇄ Revival Ctr Ch / St. Joseph Instn Jnr
+- `682` Blk 204 CP / Opp Blk 204 CP ⇄ Aft Dhoby Ghaut Stn / YMCA
+- `683` Blk 162B / Blk 649 ⇄ Revival Ctr Ch / St. Joseph Instn Jnr
+
+### Services removed: 1
+
+- `18A` Tampines Nth Int → Tampines East Stn Exit D
+
+### Bus Stop Changes To Routes: 30
+
+- `195` Aft S'pore Flyer → Promenade Stn/Pan Pacific: -2
+- `146` Woodleigh Int ⟲ Kovan Stn Exit C: +14
+- `58` Bishan Int ⇄ Pasir Ris Int: +2
+- `73` Ang Mo Kio Int ⟲ Toa Payoh Int: +2
+- `104` Punggol Coast Int ⇄ Woodleigh Int: +1
+- `114` Buangkok Int → Yio Chu Kang Int: +25, -8
+- `148` Woodleigh Int ⟲ Blk 121: +1
+- `159` Sengkang Int ⇄ Toa Payoh Int: +2
+- `181` Boon Lay Int ⟲ Blk 276B: +2, -2
+- `258` Joo Koon Int ⟲ Opp Blk 662C: +2, -2
+- `299` Tampines Nth Int ⟲ Blk 969C: +3
+- `381` Punggol Int ⟲ Blk 656A: +1
+- `502` Soon Lee Bus Pk ⟲ Raffles Hotel: +2, -2
+- `651` Opp Blk 276B / Blk 276B ⇄ Marina Bay Financial Ctr / Marina Bay Stn: +2, -2
+- `678` Blk 162B / Blk 649 ⇄ Suntec Twr Two / Suntec Twr Three: +1
+- `871` Tengah Int ⟲ Opp Beauty World Stn: +2
+- `900` Woodlands Int ⟲ Blk 589: +1
+- `967` Woodlands Temp Int ⟲ W'lands Health Campus: +1
+- `983` Choa Chu Kang Int ⟲ Aft Bt Panjang Stn: +4
+- `992` Bt Batok Int ⇄ Tengah Int: +2
+- `114A` Buangkok Int → Blk 991B: +5, -4
+- `181M` Boon Lay Int ⟲ Blk 276B: +2, -2
+- `243G` Boon Lay Int ⟲ Blk 827: +1, -1
+- `243W` Boon Lay Int ⟲ Blk 844A CP: +1, -1
+- `258M` Joo Koon Int ⟲ Boon Lay CC: +2, -2
+- `502A` Soon Lee Bus Pk → Downtown Stn Exit E: +1, -1
+- `73T` Ang Mo Kio Int → Toa Payoh Int: +1
+- `871A` Tengah Int → Blk 240: +1
+- `983A` Choa Chu Kang Int → Blk 26: +2
+- `983M` Opp Blk 486 → Aft Teck Whye Walk: +2
+
+## Routes changed: 36
+
+- `146` Woodleigh Int ⟲ Kovan Stn Exit C
+- `12` Pasir Ris Int ⇄ Kampong Bahru Ter
+- `25` Ang Mo Kio Int ⇄ Upp East Coast Ter
+- `37` Tampines Int ⟲ Seamap
+- `82` Punggol Int ⟲ S'goon Stn Exit E
+- `83` Punggol Int ⟲ Sengkang Int
+- `86` Sengkang Int ⇄ Ang Mo Kio Int
+- `90` Toa Payoh Int ⟲ Opp Air Force Museum
+- `92` Ghim Moh Ter ⟲ Opp Ayer Rajah Ind Est
+- `96` Clementi Int ⟲ Information Technology
+- `125` St. Michael's Ter ⟲ Bef Lor 23 Geylang
+- `136` Ang Mo Kio Int ⇄ Punggol Int
+- `139` Toa Payoh Int ⇄ Bt Merah Int
+- `151` Hougang Ctrl Int ⇄ Kent Ridge Ter
+- `165` Hougang Ctrl Int ⇄ Clementi Int
+- `175` Clementi Int ⇄ Lor 1 Geylang Ter
+- `177` Bt Batok Int ⟲ Blk 180
+- `261` Ang Mo Kio Int ⟲ Opp Townsville Pr Sch
+- `262` Ang Mo Kio Int ⟲ Blk 255
+- `269` Ang Mo Kio Int ⟲ Blk 645
+- `282` Clementi Int ⟲ Blk 723
+- `284` Clementi Int ⟲ Blk 308
+- `299` Tampines Nth Int ⟲ Blk 969C
+- `307` Choa Chu Kang Int ⟲ Blk 702
+- `371` Sengkang Int ⟲ Rumbia Stn Exit B/Blk 153
+- `927` Choa Chu Kang Int ⟲ Opp Bird Paradise
+- `114A` Buangkok Int → Blk 991B
+- `12e` Pasir Ris Int ⇄ Kampong Bahru Ter
+- `190A` Choa Chu Kang Int → Dhoby Ghaut Stn
+- `307A` Choa Chu Kang Int → Opp Choa Chu Kang Stn
+- `518A` Pasir Ris Int → Bayfront Stn Exit A
+- `679` Opp Blk 471A / Blk 471A ⇄ Suntec Twr Two / Suntec Twr Three
+- `680` Blk 991A / Opp Blk 991A ⇄ Aft Dhoby Ghaut Stn / YMCA
+- `681` Blk 477A / Opp Blk 477A ⇄ Revival Ctr Ch / St. Joseph Instn Jnr
+- `682` Blk 204 CP / Opp Blk 204 CP ⇄ Aft Dhoby Ghaut Stn / YMCA
+- `683` Blk 162B / Blk 649 ⇄ Revival Ctr Ch / St. Joseph Instn Jnr
+
+## First/last timings changed
+
+Affected services: `58`, `73`, `79`, `88`, `98`, `104`, `114`, `146`, `148`, `159`, `173`, `181`, `189`, `195`, `258`, `299`, `381`, `502`, `651`, `653`, `678`, `857`, `858`, `859`, `861`, `871`, `883`, `900`, `950`, `965`, `966`, `967`, `983`, `992`, `98M`, `502A`, `258M`, `181M`, `243G`, `243W`, `871A`, `189A`, `983A`, `983M`, `966A`, `858A`, `965A`, `965T`, `73T`, `857A`, `857B`, `859A`, `859B`, `861A`, `861B`, `114A`, `858B`, `58B`, `679`, `680`, `681`, `682`, `683`, `872A`
+
+# 1 December 2025
+
+## Stops count change: 5175 ⮕ 5179
+
+### Stops added: 4
+
+- `29161` Bef Pandan Rd
+- `40491` Bef Plantation Cres
+- `40499` Aft Plantation Cres
+- `47721` Blk 568B
+
+### Stop names changed: 1
+
+- `67789` Blk 409 ⮕ Blk 409A
+
+### Stop locations changed: 2
+
+- `65229` 103.90492,1.40362 ⮕ 103.90544,1.4032
+- `65259` 103.90187,1.40535 ⮕ 103.90145,1.40534
+
+## Services count change: 580 ⮕ 583
+
+### Services added: 7
+
+- `44` Punggol Coast Int ⇄ Near SATS Flight Kitchen / Airport Police Stn
+- `451` Opp Blk 816A / Blk 816B ⇄ Bt Gombak Stn / Opp Bt Gombak Stn
+- `452` Tengah Int ⇄ Beauty World Stn Exit C
+- `453` Tengah Int ⇄ Bt Batok Int
+- `454` Tampines Nth Int ⟲ Blk 875B
+- `455` Bt Panjang Int ⟲ Blk 689A
+- `456` St. Michael's Ter ⟲ Bef Kim Keat Lane
+
+### Services removed: 4
+
+- `21X` St. Michael's Ter ⟲ Bef Kim Keat Lane
+- `298X` Tampines Nth Int ⟲ Blk 875B
+- `979X` Bt Panjang Int ⟲ Blk 689A
+- `991C` Opp Blk 464 → Bt Gombak Stn
+
+### Bus Stop Changes To Routes: 4
+
+- `78` Jurong Town Hall Int ⟲ Clementi Stn Exit A/Mall: +1
+- `872` Tengah Int ⟲ Blk 306: +2
+- `967` Woodlands Temp Int ⟲ Blk 589: +1
+- `163B` Sengkang Int → Aft Lentor Stn Exit 4: +2
+
+## Routes changed: 9
+
+- `967` Woodlands Temp Int ⟲ Blk 589
+- `163B` Sengkang Int → Aft Lentor Stn Exit 4
+- `44` Punggol Coast Int ⇄ Near SATS Flight Kitchen / Airport Police Stn
+- `451` Opp Blk 816A / Blk 816B ⇄ Bt Gombak Stn / Opp Bt Gombak Stn
+- `452` Tengah Int ⇄ Beauty World Stn Exit C
+- `453` Tengah Int ⇄ Bt Batok Int
+- `454` Tampines Nth Int ⟲ Blk 875B
+- `455` Bt Panjang Int ⟲ Blk 689A
+- `456` St. Michael's Ter ⟲ Bef Kim Keat Lane
+
+## First/last timings changed
+
+Affected services: `298X`, `21X`, `979X`, `991C`, `34`, `50`, `78`, `872`, `967`, `179A`, `163B`, `44`, `451`, `452`, `453`, `454`, `455`, `456`
+
+# 1 November 2025
+
+## Stops count change: 5166 ⮕ 5175
+
+### Stops added: 10
+
+- `40509` Opp Blk 131D
+- `65669` Northshore Pr Sch
+- `67771` Blk 995B
+- `67779` Opp Blk 995C
+- `67781` Opp Blk 408A
+- `67789` Blk 409
+- `67791` Opp Blk 415A
+- `67799` Blk 415A
+- `74941` Opp Blk 961A
+- `74949` Blk 961A
+
+### Stops removed: 1
+
+- `78059` Blk 210
+
+### Stop locations changed: 34
+
+- `29149` 103.74845,1.30169 ⮕ 103.74864,1.30184
+- `43419` 103.74999,1.35156 ⮕ 103.74993,1.35162
+- `43751` 103.73666,1.3563 ⮕ 103.73656,1.35611
+- `43769` 103.73782,1.35151 ⮕ 103.73768,1.35174
+- `45291` 103.74498,1.39086 ⮕ 103.74508,1.39092
+- `45299` 103.74512,1.39162 ⮕ 103.74517,1.39144
+- `45321` 103.74755,1.3974 ⮕ 103.74767,1.39735
+- `45329` 103.74787,1.39744 ⮕ 103.74787,1.39746
+- `65261` 103.91479,1.39695 ⮕ 103.91481,1.39671
+- `65269` 103.91467,1.39671 ⮕ 103.91416,1.39718
+- `65621` 103.90274,1.41628 ⮕ 103.90256,1.41617
+- `77321` 103.94803,1.37313 ⮕ 103.94803,1.37313
+- `77329` 103.94766,1.37283 ⮕ 103.94766,1.37283
+- `95039` 103.99458,1.37219 ⮕ 103.99465,1.37228
+- `95041` 103.9957,1.37265 ⮕ 103.99571,1.37274
+- `95049` 103.99443,1.37359 ⮕ 103.99441,1.37358
+- `95051` 103.9962,1.37528 ⮕ 103.99623,1.37529
+- `95061` 103.99654,1.37755 ⮕ 103.99686,1.37824
+- `95069` 103.99643,1.3779 ⮕ 103.99652,1.37822
+- `95071` 103.99512,1.38995 ⮕ 103.99512,1.38994
+- `95081` 103.99762,1.38959 ⮕ 103.99795,1.38942
+- `95089` 103.99593,1.38962 ⮕ 103.9959,1.38967
+- `95091` 103.99971,1.38721 ⮕ 103.99964,1.38729
+- `95099` 103.99879,1.38815 ⮕ 103.9988,1.38825
+- `95131` 103.99983,1.38525 ⮕ 103.9997,1.38559
+- `95139` 103.99958,1.38636 ⮕ 103.99918,1.38547
+- `95141` 103.99819,1.38139 ⮕ 103.99821,1.38148
+- `95149` 103.99786,1.38128 ⮕ 103.99766,1.38105
+- `95159` 103.98225,1.34191 ⮕ 103.98195,1.34124
+- `99031` 103.98178,1.38791 ⮕ 103.9818,1.38793
+- `99041` 103.98547,1.3878 ⮕ 103.98545,1.38781
+- `99161` 103.99296,1.39026 ⮕ 103.99298,1.3903
+- `99171` 103.99102,1.39113 ⮕ 103.99099,1.39116
+- `99181` 103.9885,1.38775 ⮕ 103.98839,1.38779
+
+## Services count change: 579 ⮕ 580
+
+### Services added: 3
+
+- `104` Punggol Coast Int ⇄ Woodleigh Int
+- `984` Jurong Town Hall Int ⇄ Opp Blk 635A / Aft KJE Slip Rd
+- `984A` Aft KJE Slip Rd → Blk 805D
+
+### Services removed: 2
+
+- `63A` Eunos Int → Opp Blk 36
+- `43M` Punggol Int ⟲ S'goon Stadium
+
+### Bus Stop Changes To Routes: 15
+
+- `173` Bt Batok Int ⇄ Clementi Int: +1
+- `63` Eunos Int ⇄ Opp Blk 36: +1
+- `5` Pasir Ris Int ⇄ Bt Merah Int: +2
+- `18` Tampines Nth Int ⇄ Bedok Nth Depot: +2
+- `21` Pasir Ris Int ⇄ St. Michael's Ter: +2
+- `28` Tampines Int ⇄ Toa Payoh Int: +2
+- `46` Upp East Coast Ter ⇄ Pasir Ris Int: +2
+- `59` Bishan Int ⇄ Changi Village Ter: +2
+- `65` Tampines Int ⇄ HarbourFront Int: +2
+- `67` Choa Chu Kang Int ⇄ Tampines Int: +2
+- `69` Tampines Int ⟲ Bedok Int: +2
+- `168` Bedok Int ⇄ Woodlands Int: +2
+- `872` Tengah Int ⟲ Blk 306: +1
+- `53A` Blk 738 → Changi Airport Ter 2: +3, -1
+- `53M` Kovan Hub ⟲ Blk 206: +4
+
+## Routes changed: 6
+
+- `63` Eunos Int ⇄ Opp Blk 36
+- `173` Bt Batok Int ⇄ Clementi Int
+- `53M` Kovan Hub ⟲ Blk 206
+- `104` Punggol Coast Int ⇄ Woodleigh Int
+- `984` Jurong Town Hall Int ⇄ Opp Blk 635A / Aft KJE Slip Rd
+- `984A` Aft KJE Slip Rd → Blk 805D
+
+## First/last timings changed
+
+Affected services: `43M`, `63A`, `5`, `18`, `21`, `28`, `46`, `59`, `63`, `65`, `67`, `69`, `161`, `168`, `173`, `405`, `872`, `173A`, `53M`, `63M`, `53A`, `104`, `984`, `984A`
+
+# 14 October 2025
+
+## Stops count change: 5165 ⮕ 5166
+
+### Stops added: 1
+
+- `02051` The Float @ Marina Bay
+
+### Stop names changed: 17
+
+- `16199` Bef Architecture Dr ⮕ Aft Architecture Dr
+- `43061` Hillview Stn ⮕ Hillview Stn Exit B
+- `43081` Opp Assumption Eng Sch ⮕ Opp St. Joseph's Ch (Bt Timah)
+- `43089` Aft Assumption Eng Sch ⮕ St. Joseph's Ch (Bt Timah)
+- `43091` Bef Cashew Stn ⮕ Opp Cashew Stn
+- `43099` Assumption Pathway Sch ⮕ Assumption Eng Sch
+- `57041` Nee Soon HQ 22 SIB ⮕ Nee Soon Camp
+- `57049` Opp Nee Soon HQ 22 SIB ⮕ Opp Nee Soon Camp
+- `62131` S'goon Stn Exit H ⮕ S'Goon Stn Exit B
+- `65011` Opp The Rivervale ⮕ Blk 266/Opp The Rivervale
+- `65019` The Rivervale ⮕ Opp Blk 266/The Rivervale
+- `67569` Blk 432A ⮕ Bet Blks 430D/433A
+- `75069` Blk 960A ⮕ Blk 970A
+- `75201` Blk 835 ⮕ Blk 833
+- `77321` Aft Pasir Ris St 53 ⮕ Pasir Ris Int/Mall
+- `77329` Bef Pasir Ris St 53 ⮕ Opp Pasir Ris Mall
+- `05649` Opp Customs Port Br HQ ⮕ Aft Cantonment Rd
+
+### Stop locations changed: 4
+
+- `43151` 103.76489,1.36364 ⮕ 103.76471,1.36321
+- `44511` 103.74107,1.37984 ⮕ 103.74056,1.37948
+- `75061` 103.93647,1.34071 ⮕ 103.93724,1.34204
+- `80089` 103.88011,1.31266 ⮕ 103.8808,1.31275
+
+### Bus Stop Changes To Routes: 17
+
+- `36` Changi Airport Ter 2 ⟲ Orchard Stn Exit 13: +1
+- `56` Bishan Int ⇄ Promenade Stn/Pan Pacific / Aft S'pore Flyer: +1
+- `77` Bt Batok Int ⇄ Promenade Stn/Pan Pacific / Aft S'pore Flyer: +2
+- `97` Jurong East Int ⇄ Promenade Stn/Pan Pacific / Aft S'pore Flyer: +1
+- `106` Bt Batok Int ⇄ Shenton Way Ter: +1
+- `111` Ghim Moh Ter ⟲ The Float @ Marina Bay: +1
+- `133` Ang Mo Kio Int ⇄ Shenton Way Ter: +1
+- `195` Aft S'pore Flyer → Promenade Stn/Pan Pacific: +3
+- `857` Yishun Int ⟲ Opp The Ritz-Carlton: +1
+- `960` Woodlands Int ⇄ Promenade Stn/Pan Pacific / Aft S'pore Flyer: +1
+- `195A` Aft S'pore Flyer → Tiong Bahru Stn/Plaza: +7
+- `36A` Changi Airport Ter 2 → Aft Cuscaden Rd: +1
+- `36B` Lagoon View → Bef Seaside Residences: +1
+- `70M` Yio Chu Kang Int ⟲ The Float @ Marina Bay: +1
+- `960e` Woodlands Int ⇄ Promenade Stn/Pan Pacific / Aft S'pore Flyer: +1
+- `961M` Woodlands Temp Int ⇄ Lor 1 Geylang Ter: +2
+- `97e` Jurong East Int ⇄ Promenade Stn/Pan Pacific / Aft S'pore Flyer: +1
+
+## First/last timings changed
+
+Affected services: `21`, `27`, `36`, `56`, `77`, `97`, `106`, `111`, `129`, `133`, `195`, `298`, `857`, `960`, `961M`, `195A`, `97e`, `960e`, `70M`, `36B`, `36A`
+
+# 1 October 2025
+
+## Stops count change: 5162 ⮕ 5165
+
+### Stops added: 3
+
+- `50339` Opp Blk 122
+- `50341` Opp Blk 108C
+- `50361` Opp Hong Wen Sch
+
+### Stop locations changed: 7
+
+- `27341` 103.69779,1.34664 ⮕ 103.69781,1.34673
+- `27431` 103.69735,1.34947 ⮕ 103.69745,1.34987
+- `27439` 103.69712,1.34941 ⮕ 103.6972,1.34955
+- `40451` 103.736,1.3617 ⮕ 103.73591,1.36166
+- `44181` 103.74273,1.37451 ⮕ 103.74287,1.37445
+- `44189` 103.74272,1.37436 ⮕ 103.74287,1.37432
+- `75069` 103.9367,1.34066 ⮕ 103.93732,1.34167
+
+## Services count change: 578 ⮕ 579
+
+### Services added: 1
+
+- `18A` Tampines Nth Int → Tampines East Stn Exit D
+
+### Bus Stop Changes To Routes: 11
+
+- `137` Sims Pl Ter ⇄ Upp East Coast Ter: -1
+- `55` Bishan Int ⇄ Upp East Coast Ter: -1
+- `46` Upp East Coast Ter ⇄ Pasir Ris Int: -1
+- `25` Ang Mo Kio Int ⇄ Upp East Coast Ter: -1
+- `13` Yio Chu Kang Int ⇄ Upp East Coast Ter: -1
+- `43` Punggol Int ⇄ Upp East Coast Ter: -1
+- `853M` Yishun Int ⇄ Upp East Coast Ter: -1
+- `140` Lor 1 Geylang Ter ⟲ Opp S'pore Khalsa Assn: +5
+- `176` Bt Panjang Int ⇄ Bt Merah Int: +1, -1
+- `674` Blk 306B / Blk 321 ⇄ Marina Bay Financial Ctr / Marina Bay Stn: +2
+- `801` Yishun Int ⟲ Aft Yishun Ave 6: +1
+
+## Routes changed: 3
+
+- `140` Lor 1 Geylang Ter ⟲ Opp S'pore Khalsa Assn
+- `801` Yishun Int ⟲ Aft Yishun Ave 6
+- `18A` Tampines Nth Int → Tampines East Stn Exit D
+
+## First/last timings changed
+
+Affected services: `13`, `25`, `43`, `46`, `55`, `137`, `140`, `160`, `170`, `176`, `181`, `192`, `246`, `674`, `801`, `902`, `911`, `950`, `181M`, `170X`, `853M`, `18A`
+
+# 1 September 2025
+
+## Stops count change: 5160 ⮕ 5162
+
+### Stops added: 3
+
+- `40481` Bef Blk 113
+- `40489` Opp Blk 113
+- `40501` Blk 131D
+
+### Stops removed: 1
+
+- `02051` The Float @ Marina Bay
+
+### Stop locations changed: 6
+
+- `12081` 103.77543,1.32647 ⮕ 103.77424,1.32527
+- `20201` 103.74341,1.32128 ⮕ 103.74386,1.32133
+- `20209` 103.74407,1.32043 ⮕ 103.74421,1.32145
+- `46419` 103.79386,1.44379 ⮕ 103.7941,1.44356
+- `67421` 103.89377,1.39617 ⮕ 103.89224,1.39664
+- `67429` 103.89382,1.39637 ⮕ 103.89193,1.39702
+
+## Services count change: 577 ⮕ 578
+
+### Services added: 1
+
+- `872` Tengah Int ⟲ Blk 306
+
+### Bus Stop Changes To Routes: 17
+
+- `961M` Woodlands Temp Int ⇄ Lor 1 Geylang Ter: -2
+- `36A` Changi Airport Ter 2 → Aft Cuscaden Rd: -1
+- `960` Woodlands Int ⇄ Promenade Stn/Pan Pacific / Aft S'pore Flyer: -1
+- `857` Yishun Int ⟲ Opp The Ritz-Carlton: -1
+- `111` Ghim Moh Ter ⟲ The Esplanade: -1
+- `106` Bt Batok Int ⇄ Shenton Way Ter: -1
+- `56` Bishan Int ⇄ Promenade Stn/Pan Pacific / Aft S'pore Flyer: -1
+- `36` Changi Airport Ter 2 ⟲ Orchard Stn Exit 13: -1
+- `77` Bt Batok Int ⇄ Promenade Stn/Pan Pacific / Aft S'pore Flyer: -2
+- `97` Jurong East Int ⇄ Promenade Stn/Pan Pacific / Aft S'pore Flyer: -1
+- `133` Ang Mo Kio Int ⇄ Shenton Way Ter: -1
+- `195` Aft S'pore Flyer → Promenade Stn/Pan Pacific: -1
+- `195A` Aft S'pore Flyer → Tiong Bahru Stn/Plaza: -7
+- `36B` Lagoon View → Bef Seaside Residences: -1
+- `70M` Yio Chu Kang Int ⟲ Opp The Ritz-Carlton: -1
+- `960e` Woodlands Int ⇄ Promenade Stn/Pan Pacific / Aft S'pore Flyer: -1
+- `97e` Jurong East Int ⇄ Promenade Stn/Pan Pacific / Aft S'pore Flyer: -1
+
+## Routes changed: 22
+
+- `5` Pasir Ris Int ⇄ Bt Merah Int
+- `6` Pasir Ris Int ⟲ Opp Loyang Way 6
+- `12` Pasir Ris Int ⇄ Kampong Bahru Ter
+- `15` Pasir Ris Int ⟲ Marine Pde Stn Exit 2
+- `17` Pasir Ris Int ⇄ Bedok Int
+- `21` Pasir Ris Int ⇄ St. Michael's Ter
+- `46` Upp East Coast Ter ⇄ Pasir Ris Int
+- `58` Bishan Int ⇄ Pasir Ris Int
+- `68` Pasir Ris Int ⟲ Tampines Int
+- `88` Pasir Ris Int ⇄ Toa Payoh Int
+- `354` Pasir Ris Int ⟲ Casa Pasir Ris
+- `358` Pasir Ris Int ⟲ Pasir Ris Int
+- `359` Pasir Ris Int ⟲ Blk 569
+- `403` Pasir Ris Int ⟲ Aft Pasir Ris Way
+- `518` Pasir Ris Int ⟲ Bef Cairnhill Rd
+- `12e` Pasir Ris Int ⇄ Kampong Bahru Ter
+- `15A` Pasir Ris Int → Opp Eunos Stn
+- `179B` Hall 1 → Pioneer Stn Exit B
+- `518A` Pasir Ris Int → Bayfront Stn Exit A
+- `58B` Pasir Ris Int → Aft Tai Seng Stn
+- `856C` Blk 23 → Bef British American Tobacco
+- `872` Tengah Int ⟲ Blk 306
+
+## First/last timings changed
+
+Affected services: `10`, `14`, `32`, `36`, `40`, `48`, `56`, `77`, `97`, `106`, `111`, `133`, `195`, `196`, `857`, `960`, `961M`, `195A`, `97e`, `960e`, `70M`, `85A`, `3A`, `14A`, `196A`, `10e`, `36B`, `36A`, `872`
+
+# 8 August 2025
+
+## Services count change: 576 ⮕ 577
+
+### Services added: 1
+
+- `179B` Hall 1 → Pioneer Stn Exit B
+
+## Routes changed: 2
+
+- `856C` Blk 23 → Bef British American Tobacco
+- `179B` Hall 1 → Pioneer Stn Exit B
+
+## First/last timings changed
+
+Affected services: `179B`
+
+# 1 August 2025
+
+### Stops added: 1
+
+- `69099` Blk 227
+
+### Stops removed: 1
+
+- `59008` Yishun Int
+
+### Stop names changed: 130
+
+- `10287` Opposite Cycle & Carriage ⮕ Opp Cycle & Carriage
+- `11001` Opposite Ghim Moh Terminal ⮕ Opp Ghim Moh Ter
+- `11401` Holland V Stn/Blk12 ⮕ Holland V Stn/Blk 12
+- `14281` Safra Mt Faber ⮕ SAFRA Mt Faber
+- `14539` Beach Station Bus Terminal ⮕ Beach Stn Ter
+- `16091` Opp SIT Dover ⮕ NUS Sports Ctr
+- `16099` SIT Dover ⮕ Opp NUS Sports Ctr
+- `16199` Aft Architecture Dr ⮕ Bef Architecture Dr
+- `17089` Before West Coast Crescent ⮕ Bef West Coast Cres
+- `17099` Yale-NUS College ⮕ UTown - Cendana
+- `17171` Clementi Stn Exit A ⮕ Clementi Stn Exit A/Mall
+- `18011` Aft Hortpark ⮕ Aft HortPark
+- `18051` One-North Stn ⮕ one-north Stn
+- `18059` Opp One-North Stn ⮕ Opp one-north Stn
+- `18151` Opp One-North Stn/Galaxis ⮕ Opp one-north Stn/Galaxis
+- `18159` One-North Stn/Galaxis ⮕ one-north Stn/Galaxis
+- `19059` University Town ⮕ UTown - RC4
+- `20131` S'pore Food Industries Bldg ⮕ S'pore Food Ind Bldg
+- `21151` CWT Distripark ⮕ CWT Distripk
+- `21511` Opp Amoy Canning ⮕ Bef Chin Bee Rd
+- `21519` Amoy Canning ⮕ Aft Chin Bee Rd
+- `21729` Opposite Blk 239A ⮕ Opp Blk 239A
+- `22179` Secura S'Pore ⮕ Secura S'pore
+- `22561` Blk 660 Cp ⮕ Blk 660 CP
+- `25199` Rockwool Building Materials ⮕ Rockwool Bldg Materials
+- `28021` Opp 8 @ Tradehub 21 ⮕ Opp 8 @Tradehub 21
+- `28199` Opposite JEM ⮕ Opp Jem
+- `31131` Aft Track 33 ⮕ CCK Cemy Office
+- `31139` Bef Track 33 ⮕ Opp CCK Cemy Office
+- `31141` CCK Cemy Office ⮕ Aft Gdn of Remembrance
+- `31149` Opp CCK Cemy Office ⮕ Bef Gdn of Remembrance
+- `40101` Kk Women & Children Hosp ⮕ KK Women & Children Hosp
+- `40249` St. Joseph'S Instn ⮕ St. Joseph's Instn
+- `40279` Kk Women & Children Hosp ⮕ KK Women & Children Hosp
+- `40379` Blk 467 Cp ⮕ Blk 467 CP
+- `40389` Blk 119 ⮕ Tengah CC
+- `40439` Opposite Blk 236A ⮕ Opp Blk 236A
+- `42139` Ave Villa ⮕ Avenue Villa
+- `43211` Sbst Bt Batok Depot ⮕ SBST Bt Batok Depot
+- `43219` Opp Sbst Bt Batok Depot ⮕ Opp SBST Bt Batok Depot
+- `43631` Ppis Bt Batok ⮕ PPIS Bt Batok
+- `43639` Opp Ppis Bt Batok ⮕ Opp PPIS Bt Batok
+- `44499` Blk 429A Cp ⮕ Blk 429A CP
+- `44839` West Spring Pri Sch ⮕ West Spring Pr Sch
+- `44869` Bef Blk 629A Cp ⮕ Bef Blk 629A CP
+- `46109` W'Lands Checkpt ⮕ W'lands Checkpt
+- `46339` Bef W'Lands Stn Exit 7 ⮕ Bef W'lands Stn Exit 7
+- `46389` Aft W'Lands Ind Pk D St 1 ⮕ Aft W'lands Ind Pk D St 1
+- `46481` Aft Woodlands Ind Pk E6 ⮕ Aft W'lands Ind Pk E6
+- `46631` W'Lands Stn Exit 5 ⮕ W'lands Stn Exit 5
+- `46639` W'Lands Stn Exit 4 ⮕ W'lands Stn Exit 4
+- `47021` Khalsa Crescent Drug Rehab Ctr ⮕ Khalsa Cres Drug Rehab Ctr
+- `47029` Opp Khalsa Crescent Drug Rehab Ctr ⮕ Opp Khalsa Cres Drug Rehab Ctr
+- `47101` Aft Senoko Ave ⮕ Bef Senoko Ave
+- `47109` Maxsteel Enterprise ⮕ MaxSteel Enterprise
+- `47749` Woodlands Health Campus ⮕ W'lands Health Campus
+- `49199` Kranji Reservoir Pk B ⮕ Kranji Resvr Pk B
+- `52241` Bef Caldecott Stn/Savh ⮕ Bef Caldecott Stn/SAVH
+- `52501` Toa Payoh Swim Cplx ⮕ Bef Toa Payoh Pk
+- `53021` Lakeview Estate ⮕ Lakeview Est
+- `54409` Opp Blk 522 ⮕ Jing Shan Pr Sch
+- `55071` Bef Econ Medicare Ctr ⮕ Bef ECON Medicare Ctr
+- `55079` Aft Econ Medicare Ctr ⮕ Aft ECON Medicare Ctr
+- `55151` Ang Mo Kio Comm Hosp ⮕ Ang Mo Kio Community Hosp
+- `55159` Opp Ang Mo Kio Comm Hosp ⮕ Opp Ang Mo Kio Cmty Hosp
+- `56011` Bef adana at thomson ⮕ Bef Adana @ Thomson
+- `56029` Bef Sembawang Hills Fc ⮕ Bef Sembawang Hills FC
+- `56269` BEF Ang mo kio avenue 2 ⮕ Bef Ang Mo Kio Ave 2
+- `58251` Sun Plaza/Sembawang Stn ⮕ Sun Plaza/ Sembawang Stn
+- `58361` Nth Link Bldg ⮕ Nth Lk Bldg
+- `58571` Gambas Ave ⮕ Bef Sembawang Ave
+- `58579` Gambas Ave ⮕ Aft Sembawang Ave
+- `58621` Blk 126 Cp ⮕ Blk 126 CP
+- `59671` Before Yishun Station ⮕ Bef Yishun Stn
+- `59829` Opposite Blk 334B ⮕ Opp Blk 334B
+- `62101` Bef Upp Serangoon Rd ⮕ Bef Upp S'goon Rd
+- `62109` Aft Upp Serangoon Rd ⮕ Aft Upp S'goon Rd
+- `62161` St.Gabriel's Sec Sch ⮕ St. Gabriel's Sec Sch
+- `63149` Serangoon Stadium ⮕ S'goon Stadium
+- `63161` Serangoon Swim Cplx ⮕ S'goon Swim Cplx
+- `63169` Opp Serangoon Swim Cplx ⮕ Opp S'goon Swim Cplx
+- `63189` Aft Serangoon Gdn Way ⮕ Aft S'goon Gdn Way
+- `63191` Aft Serangoon Nth Ave 1 ⮕ Aft S'goon Nth Ave 1
+- `63301` Paya Lebar Meth Girls' Sc ⮕ Paya Lebar Meth Girls' Sch
+- `63369` Serangoon Sports Cplx ⮕ S'goon Sports Cplx
+- `64061` Opp Serangoon Sec Sch ⮕ Opp S'goon Sec Sch
+- `64069` Serangoon Sec Sch ⮕ S'goon Sec Sch
+- `64397` Block 513 ⮕ Blk 513
+- `65181` Atf Punggol Ctrl ⮕ Aft Punggol Ctrl
+- `65559` Opposite Blk 227A ⮕ Opp Blk 227A
+- `65671` Punggol cove pr sch ⮕ Punggol Cove Pr Sch
+- `65679` Opp punggol cove pr sch ⮕ Opp Punggol Cove Pr Sch
+- `65691` Opposite Blk 437B ⮕ Opp Blk 437B
+- `65701` Opposite SIT Punggol ⮕ Opp SIT Punggol
+- `65709` Before SIT Punggol ⮕ Bef SIT Punggol
+- `65721` Opposite Punggol Coast Station ⮕ Opp Punggol Coast Stn
+- `65729` Punggol Coast Station ⮕ Punggol Coast Stn
+- `66009` S'Goon Int ⮕ Serangoon Int
+- `66271` Serangoon Gdn Circus ⮕ S'goon Gdn Circus
+- `66561` Outside Blk 991B ⮕ Blk 991B
+- `67079` Ch Of St. Vincent De Paul ⮕ Ch of St. Vincent de Paul
+- `68181` Bef Jtc Aerospace ⮕ Bef JTC Aerospace
+- `68189` Bef Seletar A'Space Cres ⮕ Aft JTC Aerospace
+- `68191` Bef Seletar A'Space Lk ⮕ Bef Seletar A'space Lk
+- `68199` Aft Seletar A'Space Lk ⮕ Aft Seletar A'space Lk
+- `71171` Opp Scdf Hq ⮕ Opp SCDF HQ
+- `71179` Aft Scdf Hq ⮕ Aft SCDF HQ
+- `71331`  Kaki Bt Autohub ⮕ Kaki Bt Autohub
+- `71339`  Opp Kaki Bt Autohub ⮕ Opp Kaki Bt Autohub
+- `74031` Bef Tampines Ik ⮕ Bef Tampines Lk
+- `76431`  Blk 333 ⮕ Blk 333
+- `76541` Citylife@ Tampines ⮕ Citylife @ Tampines
+- `76549` Opp Citylife@ Tampines ⮕ Opp Citylife @ Tampines
+- `77231` Tampines Meridian Jc ⮕ Tampines Meridian JC
+- `77409` Opposite UMC ⮕ Opp UMC
+- `78199` Opp White Sands Pri Sch ⮕ Opp White Sands Pr Sch
+- `81101` CISCO Ctr ⮕ Paya Lebar Green
+- `81109` Opp CISCO Ctr ⮕ Opp Paya Lebar Green
+- `82061` Eunos Stn/ Int ⮕ Eunos Stn/Int
+- `84261` Saint Anthony's Canossian School ⮕ St. Anthony's Cano Sch
+- `84591` Sbst Bedok Nth Depot ⮕ SBST Bedok Nth Depot
+- `84599` Opp Sbst Bedok Nth Depot ⮕ Opp SBST Bedok Nth Depot
+- `92081` St. Patrick's Sec Sch ⮕ St. Patrick's Sch
+- `92181` 112 Katong ⮕ i12 Katong
+- `92189` Opp 112 Katong ⮕ Opp i12 Katong
+- `94029` Aft Sennet Rd ⮕ Aft Sennett Rd
+- `96461` Before Aviation Park Road ⮕ Bef Aviation Pk Rd
+- `96471` Bef Changi Coast Road ⮕ Bef Changi Coast Rd
+- `96479` After Changi Coast Road ⮕ Aft Changi Coast Rd
+- `05239` Bef The Pinnacle@Duxton ⮕ Bef The Pinnacle @Duxton
+
+### Stop locations changed: 2
+
+- `65809` 103.88631,1.39121 ⮕ 103.88605,1.39067
+- `95051` 103.9962,1.37528 ⮕ 103.9962,1.37528
+
+## Services count change: 575 ⮕ 576
+
+### Services added: 1
+
+- `856C` Blk 23 → Bef British American Tobacco
+
+### Bus Stop Changes To Routes: 3
+
+- `812` Yishun Int ⟲ Blk 121: +1, -2
+- `69` Tampines Int ⟲ Bedok Int: -1
+- `148` Woodleigh Int ⟲ Blk 120: +1
+
+## Routes changed: 2
+
+- `502` Soon Lee Bus Pk ⟲ Raffles Hotel
+- `856C` Blk 23 → Bef British American Tobacco
+
+## First/last timings changed
+
+Affected services: `14`, `21`, `22`, `28`, `45`, `46`, `69`, `136`, `148`, `159`, `163`, `168`, `182`, `222`, `228`, `248`, `265`, `325`, `812`, `993`, `182M`, `248M`, `14e`, `856C`
+
 # 2 July 2025
 
 ## Stops count change: 5170 ⮕ 5160

@@ -264,6 +264,61 @@
 		]
 	},
 	{
+		"number": 679,
+		"type": "CITYDIRECT",
+		"kmlFile": [
+			"679-1.kml",
+			"679-2.kml"
+		],
+		"routeFile": [
+			"679.xml"
+		]
+	},
+	{
+		"number": 680,
+		"type": "CITYDIRECT",
+		"kmlFile": [
+			"680-1.kml",
+			"680-2.kml"
+		],
+		"routeFile": [
+			"680.xml"
+		]
+	},
+	{
+		"number": 681,
+		"type": "CITYDIRECT",
+		"kmlFile": [
+			"681-1.kml",
+			"681-2.kml"
+		],
+		"routeFile": [
+			"681.xml"
+		]
+	},
+	{
+		"number": 682,
+		"type": "CITYDIRECT",
+		"kmlFile": [
+			"682-1.kml",
+			"682-2.kml"
+		],
+		"routeFile": [
+			"682.xml"
+		]
+	},
+	{
+		"number": 683,
+		"type": "CITYDIRECT",
+		"kmlFile": [
+			"683-1.kml",
+			"683-2.kml"
+		],
+		"routeFile": [
+			"683.xml"
+		]
+	},
+	{
 		"number": "-P11",
 		"description": "PBS from Grande Vista to Yio Chu Kang/Ang Mo Kio MRT Stations (loop)",
 		"type": "PREMIUM",
@@ -303,7 +358,8 @@
 		"description": "TM3 - Tampines Avenue 2 to Jalan Bukit Merah",
 		"type": "PREMIUM",
 		"kmlFile": [
-			"-P15-1.kml"
+			"-P15-1.kml",
+			"-P15-2.kml"
 		],
 		"routeFile": [
 			"-P15.xml"
@@ -358,7 +414,8 @@
 		"description": "Bukit Batok West Avenue 5 to Beach Road",
 		"type": "PREMIUM",
 		"kmlFile": [
-			"555-1.kml"
+			"555-1.kml",
+			"555-2.kml"
 		],
 		"routeFile": [
 			"555.xml"
@@ -384,28 +441,6 @@
 		],
 		"routeFile": [
 			"565.xml"
-		]
-	},
-	{
-		"number": 570,
-		"description": "Pasir Ris Drive 1 - Changi Business Park",
-		"type": "PREMIUM",
-		"kmlFile": [
-			"570-1.kml"
-		],
-		"routeFile": [
-			"570.xml"
-		]
-	},
-	{
-		"number": 573,
-		"description": "Ang Mo Kio Avenue 6 to Alexandra Road",
-		"type": "PREMIUM",
-		"kmlFile": [
-			"573-1.kml"
-		],
-		"routeFile": [
-			"573.xml"
 		]
 	},
 	{
@@ -467,11 +502,24 @@
 		]
 	},
 	{
+		"number": 721,
+		"description": "Tengah Dr/Plantation Cres- North Buona Vista Road",
+		"type": "PREMIUM",
+		"kmlFile": [
+			"721-1.kml",
+			"721-2.kml"
+		],
+		"routeFile": [
+			"721.xml"
+		]
+	},
+	{
 		"number": 722,
 		"description": "Senja Road to Gopeng Street",
 		"type": "PREMIUM",
 		"kmlFile": [
-			"722-1.kml"
+			"722-1.kml",
+			"722-2.kml"
 		],
 		"routeFile": [
 			"722.xml"
@@ -548,12 +596,22 @@
 		]
 	},
 	{
+		"number": 747,
+		"description": "Canberra Road to Telok Blangah Road",
+		"type": "PREMIUM",
+		"kmlFile": [
+			"747-1.kml"
+		],
+		"routeFile": [
+			"747.xml"
+		]
+	},
+	{
 		"number": 753,
 		"description": "Mariam Way - Anson Road",
 		"type": "PREMIUM",
 		"kmlFile": [
-			"753-1.kml",
-			"753-2.kml"
+			"753-1.kml"
 		],
 		"routeFile": [
 			"753.xml"
@@ -590,17 +648,6 @@
 		],
 		"routeFile": [
 			"776.xml"
-		]
-	},
-	{
-		"number": "TM3",
-		"description": "Tampines Avenue 2 to Jalan Bukit Merah",
-		"type": "PREMIUM",
-		"kmlFile": [
-			"TM3-1.kml"
-		],
-		"routeFile": [
-			"TM3.xml"
 		]
 	},
 	{
@@ -682,7 +729,7 @@
 	},
 	{
 		"number": "-S59",
-		"description": "Safari Big Bus Tours – Orchard Road to Singapore Zoo & Night Safari",
+		"description": "Safari Big Bus Tours - Orchard Road to Singapore Zoo and Night Safari",
 		"type": "SHUTTLEATTRACTIONS",
 		"kmlFile": [
 			"-S59-1.kml"
@@ -711,6 +758,17 @@
 		],
 		"routeFile": [
 			"-S60.xml"
+		]
+	},
+	{
+		"number": "-S61",
+		"description": "Shuttle Bus Service from Tanah Merah Ferry Terminal to Changi Airport (loop)",
+		"type": "SHUTTLEATTRACTIONS",
+		"kmlFile": [
+			"-S61-1.kml"
+		],
+		"routeFile": [
+			"-S61.xml"
 		]
 	},
 	{
@@ -940,6 +998,17 @@
 		]
 	},
 	{
+		"number": 104,
+		"type": "TRUNK",
+		"kmlFile": [
+			"104-1.kml",
+			"104-2.kml"
+		],
+		"routeFile": [
+			"104.xml"
+		]
+	},
+	{
 		"number": 105,
 		"type": "TRUNK",
 		"kmlFile": [
@@ -1118,7 +1187,8 @@
 		"number": 114,
 		"type": "TRUNK",
 		"kmlFile": [
-			"114-1.kml"
+			"114-1.kml",
+			"114-2.kml"
 		],
 		"routeFile": [
 			"114.xml"
@@ -1679,8 +1749,7 @@
 		"number": 146,
 		"type": "TRUNK",
 		"kmlFile": [
-			"146-1.kml",
-			"146-2.kml"
+			"146-1.kml"
 		],
 		"routeFile": [
 			"146.xml"
@@ -2142,7 +2211,8 @@
 		"number": 173,
 		"type": "TRUNK",
 		"kmlFile": [
-			"173-1.kml"
+			"173-1.kml",
+			"173-2.kml"
 		],
 		"routeFile": [
 			"173.xml"
@@ -2251,6 +2321,16 @@
 		],
 		"routeFile": [
 			"179A.xml"
+		]
+	},
+	{
+		"number": "179B",
+		"type": "TRUNK",
+		"kmlFile": [
+			"179B-1.kml"
+		],
+		"routeFile": [
+			"179B.xml"
 		]
 	},
 	{
@@ -2446,6 +2526,26 @@
 		],
 		"routeFile": [
 			"189A.xml"
+		]
+	},
+	{
+		"number": "18A",
+		"type": "TRUNK",
+		"kmlFile": [
+			"18A-1.kml"
+		],
+		"routeFile": [
+			"18A.xml"
+		]
+	},
+	{
+		"number": "18M",
+		"type": "TRUNK",
+		"kmlFile": [
+			"18M-1.kml"
+		],
+		"routeFile": [
+			"18M.xml"
 		]
 	},
 	{
@@ -2695,16 +2795,6 @@
 		],
 		"routeFile": [
 			"21A.xml"
-		]
-	},
-	{
-		"number": "21X",
-		"type": "TRUNK",
-		"kmlFile": [
-			"21X-1.kml"
-		],
-		"routeFile": [
-			"21X.xml"
 		]
 	},
 	{
@@ -3339,16 +3429,6 @@
 		],
 		"routeFile": [
 			"298.xml"
-		]
-	},
-	{
-		"number": "298X",
-		"type": "TRUNK",
-		"kmlFile": [
-			"298X-1.kml"
-		],
-		"routeFile": [
-			"298X.xml"
 		]
 	},
 	{
@@ -4022,6 +4102,16 @@
 		]
 	},
 	{
+		"number": "43A",
+		"type": "TRUNK",
+		"kmlFile": [
+			"43A-1.kml"
+		],
+		"routeFile": [
+			"43A.xml"
+		]
+	},
+	{
 		"number": "43e",
 		"type": "TRUNK",
 		"kmlFile": [
@@ -4033,13 +4123,14 @@
 		]
 	},
 	{
-		"number": "43M",
+		"number": 44,
 		"type": "TRUNK",
 		"kmlFile": [
-			"43M-1.kml"
+			"44-1.kml",
+			"44-2.kml"
 		],
 		"routeFile": [
-			"43M.xml"
+			"44.xml"
 		]
 	},
 	{
@@ -4051,6 +4142,91 @@
 		],
 		"routeFile": [
 			"45.xml"
+		]
+	},
+	{
+		"number": 451,
+		"type": "TRUNK",
+		"kmlFile": [
+			"451-1.kml",
+			"451-2.kml"
+		],
+		"routeFile": [
+			"451.xml"
+		]
+	},
+	{
+		"number": 452,
+		"type": "TRUNK",
+		"kmlFile": [
+			"452-1.kml",
+			"452-2.kml"
+		],
+		"routeFile": [
+			"452.xml"
+		]
+	},
+	{
+		"number": 453,
+		"type": "TRUNK",
+		"kmlFile": [
+			"453-1.kml",
+			"453-2.kml"
+		],
+		"routeFile": [
+			"453.xml"
+		]
+	},
+	{
+		"number": 454,
+		"type": "TRUNK",
+		"kmlFile": [
+			"454-1.kml"
+		],
+		"routeFile": [
+			"454.xml"
+		]
+	},
+	{
+		"number": 455,
+		"type": "TRUNK",
+		"kmlFile": [
+			"455-1.kml"
+		],
+		"routeFile": [
+			"455.xml"
+		]
+	},
+	{
+		"number": 456,
+		"type": "TRUNK",
+		"kmlFile": [
+			"456-1.kml"
+		],
+		"routeFile": [
+			"456.xml"
+		]
+	},
+	{
+		"number": 457,
+		"type": "TRUNK",
+		"kmlFile": [
+			"457-1.kml",
+			"457-2.kml"
+		],
+		"routeFile": [
+			"457.xml"
+		]
+	},
+	{
+		"number": 458,
+		"type": "TRUNK",
+		"kmlFile": [
+			"458-1.kml",
+			"458-2.kml"
+		],
+		"routeFile": [
+			"458.xml"
 		]
 	},
 	{
@@ -4452,20 +4628,11 @@
 		"number": 63,
 		"type": "TRUNK",
 		"kmlFile": [
-			"63-1.kml"
+			"63-1.kml",
+			"63-2.kml"
 		],
 		"routeFile": [
 			"63.xml"
-		]
-	},
-	{
-		"number": "63A",
-		"type": "TRUNK",
-		"kmlFile": [
-			"63A-1.kml"
-		],
-		"routeFile": [
-			"63A.xml"
 		]
 	},
 	{
@@ -4980,6 +5147,26 @@
 		]
 	},
 	{
+		"number": "831G",
+		"type": "TRUNK",
+		"kmlFile": [
+			"831G-1.kml"
+		],
+		"routeFile": [
+			"831G.xml"
+		]
+	},
+	{
+		"number": "831W",
+		"type": "TRUNK",
+		"kmlFile": [
+			"831W-1.kml"
+		],
+		"routeFile": [
+			"831W.xml"
+		]
+	},
+	{
 		"number": "83T",
 		"type": "TRUNK",
 		"kmlFile": [
@@ -5147,6 +5334,16 @@
 		],
 		"routeFile": [
 			"856B.xml"
+		]
+	},
+	{
+		"number": "856C",
+		"type": "TRUNK",
+		"kmlFile": [
+			"856C-1.kml"
+		],
+		"routeFile": [
+			"856C.xml"
 		]
 	},
 	{
@@ -5400,6 +5597,26 @@
 		],
 		"routeFile": [
 			"871A.xml"
+		]
+	},
+	{
+		"number": 872,
+		"type": "TRUNK",
+		"kmlFile": [
+			"872-1.kml"
+		],
+		"routeFile": [
+			"872.xml"
+		]
+	},
+	{
+		"number": "872A",
+		"type": "TRUNK",
+		"kmlFile": [
+			"872A-1.kml"
+		],
+		"routeFile": [
+			"872A.xml"
 		]
 	},
 	{
@@ -6278,16 +6495,6 @@
 		]
 	},
 	{
-		"number": "979X",
-		"type": "TRUNK",
-		"kmlFile": [
-			"979X-1.kml"
-		],
-		"routeFile": [
-			"979X.xml"
-		]
-	},
-	{
 		"number": "97e",
 		"type": "TRUNK",
 		"kmlFile": [
@@ -6369,6 +6576,27 @@
 		],
 		"routeFile": [
 			"983M.xml"
+		]
+	},
+	{
+		"number": 984,
+		"type": "TRUNK",
+		"kmlFile": [
+			"984-1.kml",
+			"984-2.kml"
+		],
+		"routeFile": [
+			"984.xml"
+		]
+	},
+	{
+		"number": "984A",
+		"type": "TRUNK",
+		"kmlFile": [
+			"984A-1.kml"
+		],
+		"routeFile": [
+			"984A.xml"
 		]
 	},
 	{
@@ -6465,16 +6693,6 @@
 		]
 	},
 	{
-		"number": "991C",
-		"type": "TRUNK",
-		"kmlFile": [
-			"991C-1.kml"
-		],
-		"routeFile": [
-			"991C.xml"
-		]
-	},
-	{
 		"number": 992,
 		"type": "TRUNK",
 		"kmlFile": [
@@ -6513,6 +6731,47 @@
 		],
 		"routeFile": [
 			"9B.xml"
+		]
+	},
+	{
+		"number": "S37A",
+		"type": "TRUNK",
+		"kmlFile": [
+			"S37A-1.kml"
+		],
+		"routeFile": [
+			"S37A.xml"
+		]
+	},
+	{
+		"number": "S37B",
+		"type": "TRUNK",
+		"kmlFile": [
+			"S37B-1.kml"
+		],
+		"routeFile": [
+			"S37B.xml"
+		]
+	},
+	{
+		"number": "S37C",
+		"type": "TRUNK",
+		"kmlFile": [
+			"S37C-1.kml"
+		],
+		"routeFile": [
+			"S37C.xml"
+		]
+	},
+	{
+		"number": "S38",
+		"type": "TRUNK",
+		"kmlFile": [
+			"S38-1.kml",
+			"S38-2.kml"
+		],
+		"routeFile": [
+			"S38.xml"
 		]
 	}
 ]

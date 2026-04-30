@@ -1,6 +1,6 @@
 [
 	{
-		"name": "From Pasir Ris Int to St. Michael&#039;s Ter",
+		"name": "From Pasir Ris Int to St. Michael's Ter",
 		"stops": [
 			"77009",
 			"78109",
@@ -22,6 +22,7 @@
 			"76069",
 			"75059",
 			"75069",
+			"74949",
 			"75349",
 			"84609",
 			"84639",
@@ -73,7 +74,7 @@
 		]
 	},
 	{
-		"name": "From St. Michael&#039;s Ter to Pasir Ris Int",
+		"name": "From St. Michael's Ter to Pasir Ris Int",
 		"stops": [
 			"52499",
 			"52451",
@@ -122,6 +123,7 @@
 			"84631",
 			"84601",
 			"75341",
+			"74941",
 			"75061",
 			"75051",
 			"76061",

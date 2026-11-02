@@ -1,5 +1,10 @@
 [
 	{
+		"number": "01511",
+		"name": "DUO",
+		"newName": "Opp The Gateway"
+	},
+	{
 		"number": "04121",
 		"name": "SMU",
 		"newName": "SMU"
@@ -85,11 +90,6 @@
 		"newName": "APSN"
 	},
 	{
-		"number": "46049",
-		"name": "GLOBALFOUNDRIES",
-		"newName": "GLOBALFOUNDRIES"
-	},
-	{
 		"number": "48031",
 		"name": "LP 162",
 		"newName": "LP 162"
@@ -108,11 +108,6 @@
 		"number": "64149",
 		"name": "LP 137",
 		"newName": "LP 137"
-	},
-	{
-		"number": "70089",
-		"name": "HDB CP",
-		"newName": "HDB CP"
 	},
 	{
 		"number": "75171",

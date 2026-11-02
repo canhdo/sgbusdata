@@ -1,3 +1,516 @@
+# 1 November 2026
+
+## Stops count change: 5208 ⮕ 5209
+
+### Stops added: 4
+
+- `40561` Bef Tengah Gdn Ave
+- `40569` Aft Tengah Gdn Ave
+- `43661` Opp Blk 407
+- `43909` Little Guilin
+
+### Stops removed: 3
+
+- `67689` Sengkang Stn Exit C
+- `67708` Opp Fernvale Plains
+- `67759` Compassvale Int
+
+### Stop names changed: 36
+
+- `22461` Opp Blk 653B ⮕ Blk 988C
+- `25351` Hart Engrg Pte Ltd ⮕ Bef Tuas Ave 3
+- `25359` Opp Hart Engrg Pte Ltd ⮕ Aft Tuas Ave 3
+- `28631` Opp Blk 288D ⮕ Blk 266
+- `43151` Opp Glendale Pk Condo ⮕ HillV2
+- `54059` Bef Ang Mo Kio Lib ⮕ Bef Ang Mo Kio Polyclinic
+- `54501` Opp AMK Ind Pk 2 ⮕ Opp Ang Mo Kio Ind Pk 2
+- `55041` Aft AMK St 64/Apple SG ⮕ Aft Ang Mo Kio St 64/Apple SG
+- `55049` Bef AMK St 64/Apple SG ⮕ Bef Ang Mo Kio St 64/Apple SG
+- `55239` Bef AMK St 64 ⮕ Bef Ang Mo Kio St 64
+- `55301` AMK Police Div HQ ⮕ Ang Mo Kio Police Div HQ
+- `55309` Opp AMK Police Div HQ ⮕ Opp Ang Mo Kio Police Div HQ
+- `59041` Bef Khatib Stn ⮕ Khatib Stn Exit A
+- `59049` Opp Khatib Stn ⮕ Opp Khatib Stn Exit A
+- `62141` Opp Blk 1 ⮕ Aft Serangoon Polyclinic
+- `66451` Aft AMK Ind Pk 2 ⮕ Aft Ang Mo Kio Ind Pk 2
+- `66481` Opp Blk 968 ⮕ Blk 987B
+- `70081` Opp HDB CP ⮕ Aft Ubi Link
+- `70089` HDB CP ⮕ Bef Ubi Link
+- `70151` Aft Jln Anggerek ⮕ Bef Jln Anggerek
+- `70161` Opp Mattar Stn Exit A ⮕ Mattar Stn Exit A
+- `70281` Aft Tai Seng Stn ⮕ Tai Seng Stn Exit A/B
+- `75461` Reebonz Bldg ⮕ Aft Tampines Nth Dr 1
+- `75469` Opp Reebonz Bldg ⮕ Bef Tampines Nth Dr 1
+- `78231` Opp Blk 482 ⮕ Pasir Ris Crest Sec Sch
+- `84701` Blk 151 ⮕ Bet Blks 150/151
+- `96189` Blk 166 ⮕ Blk 166 CP
+- `99181` Bef S'pore Aviation Ac ⮕ Aft Changi Village Rd
+- `01121` Aft Victoria Ln ⮕ Aft Victoria Lane
+- `01421` Opp Golden Mile Cplx ⮕ Blk 1
+- `01429` Golden Mile Cplx ⮕ Aft Crawford St
+- `01521` Opp Plaza Parkroyal ⮕ Aft Bussorah St
+- `01529` Plaza Parkroyal ⮕ Opp Bussorah St
+- `06151` Hotel Miramar ⮕ Aft Saiboo St
+- `06159` Opp Hotel Miramar ⮕ Bef Saiboo St
+- `07221` Sri Vadapathira K Tp ⮕ Sri Vadapathira Kaliamman Tp
+
+### Stop locations changed: 30
+
+- `13019` 103.82013,1.30674 ⮕ 103.81947,1.30692
+- `14241` 103.81687,1.27914 ⮕ 103.81696,1.27923
+- `17019` 103.76705,1.2938 ⮕ 103.7671,1.29396
+- `17291` 103.7697,1.29035 ⮕ 103.76858,1.29074
+- `17299` 103.77005,1.29061 ⮕ 103.76869,1.29119
+- `17301` 103.76517,1.29495 ⮕ 103.76493,1.29547
+- `17351` 103.76576,1.29358 ⮕ 103.76637,1.29225
+- `20231` 103.73965,1.32234 ⮕ 103.73968,1.32233
+- `28291` 103.73638,1.34446 ⮕ 103.73625,1.34419
+- `42159` 103.77531,1.34037 ⮕ 103.77495,1.34038
+- `44669` 103.7649,1.38429 ⮕ 103.76492,1.38427
+- `46209` 103.77728,1.44025 ⮕ 103.77746,1.4402
+- `46521` 103.77429,1.43238 ⮕ 103.77442,1.43241
+- `46709` 103.77555,1.44145 ⮕ 103.77564,1.44132
+- `58201` 103.83099,1.45531 ⮕ 103.83098,1.45533
+- `58209` 103.83063,1.45524 ⮕ 103.83065,1.45521
+- `62049` 103.88038,1.34871 ⮕ 103.88038,1.34867
+- `64389` 103.89157,1.37314 ⮕ 103.89172,1.3731
+- `64397` 103.89,1.37195 ⮕ 103.89006,1.37204
+- `64571` 103.89296,1.37811 ⮕ 103.89292,1.3782
+- `65041` 103.90163,1.38988 ⮕ 103.90166,1.38987
+- `65191` 103.9054,1.39527 ⮕ 103.90541,1.39523
+- `65199` 103.90543,1.39592 ⮕ 103.90539,1.39598
+- `67251` 103.90031,1.39443 ⮕ 103.89999,1.39463
+- `67259` 103.90046,1.39465 ⮕ 103.90004,1.39474
+- `67609` 103.89304,1.38393 ⮕ 103.89298,1.38282
+- `68119` 103.87217,1.40219 ⮕ 103.87219,1.40214
+- `72049` 103.90747,1.3349 ⮕ 103.90759,1.33492
+- `82049` 103.89892,1.31634 ⮕ 103.89905,1.31641
+- `03218` 103.84687,1.27408 ⮕ 103.8469,1.27423
+
+## Services count change: 602 ⮕ 604
+
+### Services added: 4
+
+- `873` Tengah Int ⟲ Opp The Rail Mall
+- `874` Tengah Int ⟲ Opp Choa Chu Kang Stn
+- `861C` Sembawang Int → Opp Chongfu Pr Sch
+- `873M` Tengah Int ⟲ Little Guilin
+
+### Services removed: 2
+
+- `SWB` Sengkang Int → Thanggam Stn Exit B
+- `SWA` Fernvale Stn/Blk 439A → Sengkang Int
+
+### Bus Stop Changes To Routes: 26
+
+- `372` Sengkang Int ⟲ Blk 231: +2, -3
+- `374` Sengkang Int ⟲ Thanggam Stn Exit B: +2, -3
+- `36` Changi Airport Ter 2 ⟲ Orchard Stn Exit 13: +1
+- `56` Bishan Int ⇄ Promenade Stn/Pan Pacific / Aft S'pore Flyer: +1
+- `77` Bt Batok Int ⇄ Promenade Stn/Pan Pacific / Aft S'pore Flyer: +1
+- `80` Sengkang Int ⇄ HarbourFront Int: +2, -2
+- `86` Sengkang Int ⇄ Ang Mo Kio Int: +2, -2
+- `87` Sengkang Int ⇄ Bedok Int: +2, -2
+- `97` Tengah Int ⇄ Promenade Stn/Pan Pacific / Aft S'pore Flyer: +1
+- `106` Bt Batok Int ⇄ Shenton Way Ter: +1
+- `111` Ghim Moh Ter ⟲ The Float @ Marina Bay: +1
+- `133` Ang Mo Kio Int ⇄ Shenton Way Ter: +1
+- `195` Aft S'pore Flyer → Promenade Stn/Pan Pacific: +1
+- `647` Blk 347 / Opp Blk 347 ⇄ Aft Promenade Stn Exit C / Suntec Convention Ctr: +1, -1
+- `857` Yishun Int ⟲ Opp The Ritz-Carlton: +1
+- `195A` Aft S'pore Flyer → Tiong Bahru Stn/Plaza: +1
+- `36A` Changi Airport Ter 2 → Aft Cuscaden Rd: +1
+- `36B` Lagoon View → Bef Seaside Residences: +1
+- `70M` Yio Chu Kang Int ⟲ The Float @ Marina Bay: +1
+- `80A` Sengkang Int → Aljunied Stn: +1, -1
+- `831G` Tengah Int ⟲ Opp Blk 131D: +1
+- `831W` Tengah Int ⟲ Blk 131D: +1
+- `960e` Woodlands Int ⇄ Promenade Stn/Pan Pacific / Aft S'pore Flyer: +1
+- `961M` Woodlands Temp Int ⇄ Lor 1 Geylang Ter: +2
+- `97e` Tengah Int ⇄ Promenade Stn/Pan Pacific / Aft S'pore Flyer: +1
+- `358` Pasir Ris Int: +23
+
+## Routes changed: 15
+
+- `80` Sengkang Int ⇄ HarbourFront Int
+- `86` Sengkang Int ⇄ Ang Mo Kio Int
+- `87` Sengkang Int ⇄ Bedok Int
+- `97` Tengah Int ⇄ Promenade Stn/Pan Pacific / Aft S'pore Flyer
+- `358` Pasir Ris Int
+- `372` Sengkang Int ⟲ Blk 231
+- `374` Sengkang Int ⟲ Thanggam Stn Exit B
+- `991` Bt Batok Int ⇄ Choa Chu Kang Int
+- `80A` Sengkang Int → Aljunied Stn
+- `97e` Tengah Int ⇄ Promenade Stn/Pan Pacific / Aft S'pore Flyer
+- `991B` Choa Chu Kang Int → Opp Choa Chu Kang Mkt
+- `873` Tengah Int ⟲ Opp The Rail Mall
+- `874` Tengah Int ⟲ Opp Choa Chu Kang Stn
+- `861C` Sembawang Int → Opp Chongfu Pr Sch
+- `873M` Tengah Int ⟲ Little Guilin
+
+## First/last timings changed
+
+Affected services: `SWB`, `SWA`, `12`, `13`, `15`, `16`, `21`, `35`, `36`, `43`, `44`, `48`, `54`, `55`, `56`, `62`, `68`, `73`, `77`, `80`, `86`, `87`, `88`, `97`, `103`, `104`, `106`, `111`, `117`, `119`, `122`, `123`, `127`, `130`, `133`, `134`, `135`, `142`, `147`, `151`, `155`, `188`, `195`, `196`, `197`, `242`, `262`, `358`, `372`, `374`, `386`, `400`, `401`, `453`, `460`, `518`, `647`, `651`, `674`, `805`, `851`, `852`, `854`, `855`, `857`, `860`, `960`, `965`, `969`, `16M`, `961M`, `195A`, `188e`, `97e`, `851e`, `960e`, `831W`, `831G`, `857A`, `857B`, `70M`, `85A`, `117M`, `861A`, `854e`, `80A`, `382W`, `43e`, `84G`, `84W`, `196A`, `10e`, `196e`, `36B`, `36A`, `35M`, `873`, `874`, `873M`, `861C`
+
+# 1 October 2026
+
+### Stops added: 2
+
+- `40319` Blk 441A
+- `02051` The Float @ Marina Bay
+
+### Stops removed: 2
+
+- `07522` Jalan Besar S42 Boarding
+- `70372` MacPherson S41 Boarding
+
+### Stop locations changed: 38
+
+- `20159` 103.7464,1.31851 ⮕ 103.74651,1.31842
+- `20169` 103.74251,1.31928 ⮕ 103.74272,1.31915
+- `20231` 103.73968,1.32233 ⮕ 103.73965,1.32234
+- `23089` 103.67843,1.33043 ⮕ 103.67859,1.33039
+- `23231` 103.67492,1.30926 ⮕ 103.67503,1.3093
+- `23239` 103.67519,1.30915 ⮕ 103.67499,1.30918
+- `23491` 103.67781,1.32792 ⮕ 103.67785,1.32789
+- `24049` 103.67379,1.33094 ⮕ 103.67378,1.33091
+- `25059` 103.61725,1.27001 ⮕ 103.61748,1.27
+- `28051` 103.74574,1.33229 ⮕ 103.74564,1.33242
+- `29029` 103.73497,1.31367 ⮕ 103.73498,1.31387
+- `40411` 103.7293,1.35755 ⮕ 103.72921,1.35765
+- `40441` 103.73349,1.36187 ⮕ 103.7334,1.36191
+- `40449` 103.7335,1.3622 ⮕ 103.73354,1.36213
+- `43439` 103.75623,1.35118 ⮕ 103.75635,1.35124
+- `43541` 103.755,1.35288 ⮕ 103.75504,1.35291
+- `43549` 103.7553,1.35278 ⮕ 103.75526,1.35271
+- `43569` 103.75311,1.35741 ⮕ 103.75313,1.3573
+- `44121` 103.75094,1.3777 ⮕ 103.75086,1.37762
+- `44531` 103.74454,1.38425 ⮕ 103.7447,1.38438
+- `44889` 103.7484,1.3756 ⮕ 103.74833,1.37553
+- `59789` 103.85136,1.42301 ⮕ 103.85114,1.42284
+- `64371` 103.89289,1.37447 ⮕ 103.89288,1.37453
+- `64379` 103.89266,1.37469 ⮕ 103.8927,1.37468
+- `64381` 103.8917,1.37288 ⮕ 103.89172,1.37299
+- `67209` 103.89618,1.38691 ⮕ 103.89625,1.38693
+- `67261` 103.89464,1.38659 ⮕ 103.89465,1.38658
+- `67269` 103.89513,1.38605 ⮕ 103.89511,1.38615
+- `72059` 103.90428,1.33376 ⮕ 103.90436,1.33381
+- `72171` 103.91849,1.34247 ⮕ 103.91855,1.34246
+- `75351` 103.93078,1.37364 ⮕ 103.93058,1.37333
+- `75359` 103.93148,1.37439 ⮕ 103.93134,1.3743
+- `75361` 103.9303,1.37064 ⮕ 103.93034,1.37039
+- `75369` 103.93057,1.3708 ⮕ 103.93069,1.37027
+- `76069` 103.94209,1.34875 ⮕ 103.94208,1.34868
+- `94071` 103.95497,1.31972 ⮕ 103.95509,1.31984
+- `94079` 103.95533,1.31956 ⮕ 103.95523,1.31947
+- `05259` 103.84263,1.27979 ⮕ 103.8427,1.27974
+
+## Services count change: 605 ⮕ 602
+
+### Services removed: 3
+
+- `S41` MacPherson S41 Boarding / Opp MacPherson Stn Exit A ⇄ Expo Stn Exit E / Expo Stn Exit B
+- `S42` Aft Bugis Stn Exit C / Bugis Stn Exit D ⇄ MacPherson Stn Exit A / Opp MacPherson Stn Exit A
+- `S43` Bt Panjang Stn Exit A/LRT / Bt Panjang Stn Exit B ⇄ Bugis Stn Exit B / Bugis Stn Exit D
+
+### Bus Stop Changes To Routes: 8
+
+- `381` Punggol Int ⇄ Punggol Coast Int: +14
+- `871` Tengah Int ⟲ Opp Beauty World Stn: +1
+- `960` Woodlands Int ⇄ Promenade Stn/Pan Pacific / Aft S'pore Flyer: +1
+- `984` Jurong Town Hall Int ⇄ Opp Blk 635A / Blk 634 CP: +1
+- `991` Bt Batok Int ⇄ Choa Chu Kang Int: +1
+- `925A` Woodlands Temp Int → Kranji Resvr Pk B: +1, -1
+- `984A` Blk 634 CP → Blk 805D: +1
+- `991B` Choa Chu Kang Int → Opp Choa Chu Kang Mkt: +1
+
+## Routes changed: 2
+
+- `381` Punggol Int ⇄ Punggol Coast Int
+- `871` Tengah Int ⟲ Opp Beauty World Stn
+
+## First/last timings changed
+
+Affected services: `S41`, `S42`, `S43`, `4`, `19`, `23`, `28`, `29`, `33`, `37`, `38`, `56`, `72`, `75`, `89`, `155`, `158`, `190`, `254`, `291`, `292`, `293`, `381`, `502`, `665`, `871`, `904`, `922`, `960`, `961`, `962`, `972`, `973`, `984`, `991`, `975A`, `984A`, `991A`, `991B`, `925M`, `925A`, `911T`, `912B`, `903M`, `962C`, `962B`, `89e`
+
+# 1 September 2026
+
+## Stops count change: 5207 ⮕ 5208
+
+### Stops added: 1
+
+- `58999` Blk 936 CP
+
+### Stop locations changed: 28
+
+- `10149` 103.83283,1.28607 ⮕ 103.83299,1.28601
+- `10169` 103.82748,1.286 ⮕ 103.82756,1.28597
+- `13071` 103.83294,1.29634 ⮕ 103.83306,1.29637
+- `13081` 103.83624,1.29591 ⮕ 103.83625,1.29588
+- `13091` 103.83938,1.29593 ⮕ 103.83935,1.29587
+- `46359` 103.78299,1.43083 ⮕ 103.78335,1.43095
+- `54291` 103.85886,1.36919 ⮕ 103.85855,1.36931
+- `62029` 103.88273,1.34411 ⮕ 103.88272,1.3441
+- `62049` 103.88038,1.34867 ⮕ 103.88038,1.34871
+- `65041` 103.90166,1.38987 ⮕ 103.90163,1.38988
+- `70261` 103.88963,1.32884 ⮕ 103.88969,1.329
+- `70281` 103.88797,1.33545 ⮕ 103.888,1.33549
+- `71049` 103.89882,1.34609 ⮕ 103.89885,1.34611
+- `71179` 103.89238,1.33468 ⮕ 103.89117,1.33418
+- `71189` 103.89909,1.34494 ⮕ 103.89915,1.34491
+- `75051` 103.94008,1.34503 ⮕ 103.94019,1.34502
+- `80159` 103.85795,1.29596 ⮕ 103.85716,1.29492
+- `82051` 103.8974,1.3008 ⮕ 103.89736,1.30022
+- `82059` 103.8974,1.30138 ⮕ 103.89746,1.30124
+- `92241` 103.90095,1.30178 ⮕ 103.90102,1.30178
+- `95029` 103.99076,1.36111 ⮕ 103.99081,1.36106
+- `95109` 103.98716,1.35738 ⮕ 103.98708,1.35743
+- `95129` 103.98864,1.35533 ⮕ 103.98861,1.35535
+- `96341` 103.97038,1.33277 ⮕ 103.97039,1.33294
+- `02119` 103.85534,1.29184 ⮕ 103.85531,1.29192
+- `02149` 103.85956,1.2956 ⮕ 103.85951,1.29562
+- `02161` 103.86093,1.29269 ⮕ 103.86088,1.29278
+- `05411` 103.84309,1.27519 ⮕ 103.84314,1.27535
+
+### Bus Stop Changes To Routes: 18
+
+- `39` Tampines Concourse Int ⇄ Yishun Int: +1
+- `85` Punggol Int ⇄ Yishun Int: +1
+- `103` Serangoon Int ⇄ Yishun Int: +1
+- `117` Punggol Coast Int ⇄ Sembawang Int: +1
+- `805` Yishun Int ⟲ Opp Orchid Country Club: +1
+- `851` Yishun Int ⇄ Bt Merah Int: +1
+- `852` Yishun Int ⇄ Bt Batok Int: +1
+- `854` Yishun Int ⇄ Bedok Int: +1
+- `855` Yishun Int ⇄ HarbourFront Int: +1
+- `857` Yishun Int ⟲ Aft Promenade Stn Exit C: +1
+- `965` Woodlands Temp Int ⇄ Buangkok Int: +1
+- `969` Woodlands Int ⇄ Tampines Int: +1
+- `117M` Punggol Coast Int ⇄ Sembawang Int: +1
+- `851e` Yishun Int ⇄ Aft Duxton Plain Pk / Bef Pearl's Hill Terr: +1
+- `854e` Yishun Int → Bedok Int: +1
+- `857A` Yishun Int → Opp Sunrise Gdns: +1
+- `857B` Yishun Int → Aft Promenade Stn Exit C: +1
+- `85A` Yishun Int → Sengkang Community Hub: +1
+
+## Routes changed: 1
+
+- `80` Compassvale Int ⇄ HarbourFront Int
+
+## First/last timings changed
+
+Affected services: `8`, `24`, `39`, `53`, `64`, `75`, `85`, `93`, `97`, `102`, `103`, `117`, `137`, `157`, `161`, `163`, `165`, `175`, `183`, `188`, `190`, `232`, `268`, `269`, `805`, `811`, `851`, `852`, `854`, `855`, `857`, `903`, `965`, `969`, `984`, `984A`, `851e`, `983M`, `913M`, `410W`, `857A`, `857B`, `85A`, `117M`, `854e`, `53M`
+
+# 5 August 2026
+
+## Stops count change: 5205 ⮕ 5207
+
+### Stops added: 4
+
+- `27381` Blk 749
+- `27389` Gek Poh Shop Ctr
+- `70372` MacPherson S41 Boarding
+- `07522` Jalan Besar S42 Boarding
+
+### Stops removed: 2
+
+- `44821` Blk 651
+- `02051` The Float @ Marina Bay
+
+### Stop names changed: 23
+
+- `12201` LogisHub @ Clementi ⮕ Bet Clementi Loop
+- `12209` Opp LogisHub @ Clementi ⮕ Opp Clementi Loop
+- `14061` Opp Former Railway Stn ⮕ Opp Cantonment Stn Exit 4
+- `14069` Former Railway Stn ⮕ Cantonment Stn Exit 4
+- `14081` Tg Pagar DP Blk F5 ⮕ Keppel Stn Exit 3
+- `14089` Opp Tg Pagar DP Blk F5 ⮕ Keppel Stn Exit 2
+- `16091` NUS Sports Centre ⮕ NUS Sports Ctr
+- `16099` Opp NUS Sports Centre ⮕ Opp NUS Sports Ctr
+- `43409` Opp Blk 127 ⮕ Opp Blk 122
+- `44069` Aft KJE Slip Rd ⮕ Blk 634 CP
+- `46041` Opp GLOBALFOUNDRIES ⮕ Opp GlobalFoundries
+- `46049` GLOBALFOUNDRIES ⮕ GlobalFoundries
+- `46059` GLOBALFOUNDRIES/Aft BKE ⮕ GlobalFoundries/Aft BKE
+- `47549` Opp Blk 639 ⮕ Blk 693 CP
+- `51109` Opp Old Police Acad ⮕ Bef Dyson Rd
+- `52069` ComfortDelGro Corp Ltd ⮕ Opp BCA Acad
+- `65271` Opp Blk 188 ⮕ Bet Blks 622A/622B
+- `84681` Blk 163 ⮕ Blk 164
+- `85091` Tanah Merah Stn Exit B ⮕ Tanah Merah Stn Exit 2
+- `85099` Tanah Merah Stn Exit A ⮕ Tanah Merah Stn Exit 1
+- `03218` Opp MAS Bldg ⮕ Prince Edward Rd Stn Exit 2
+- `04143` Stamford Ct ⮕ Bef Stamford Rd
+- `06189` Ctrl Sq ⮕ Aft Solomon St
+
+### Stop locations changed: 95
+
+- `10471` 103.81468,1.2968 ⮕ 103.81475,1.29677
+- `11401` 103.79507,1.30907 ⮕ 103.795,1.30898
+- `11511` 103.80252,1.28595 ⮕ 103.80252,1.2861
+- `14069` 103.83641,1.27254 ⮕ 103.83708,1.2725
+- `18059` 103.78721,1.29849 ⮕ 103.78728,1.29851
+- `18089` 103.78757,1.29481 ⮕ 103.78758,1.29474
+- `18339` 103.78456,1.29506 ⮕ 103.78458,1.29498
+- `20231` 103.73944,1.32234 ⮕ 103.73968,1.32233
+- `21339` 103.70831,1.32991 ⮕ 103.70838,1.32987
+- `21349` 103.7093,1.33554 ⮕ 103.70939,1.33573
+- `21441` 103.71326,1.34638 ⮕ 103.71317,1.34649
+- `21461` 103.71799,1.32732 ⮕ 103.71828,1.32739
+- `22441` 103.70358,1.34282 ⮕ 103.7036,1.34285
+- `22449` 103.70381,1.34306 ⮕ 103.70377,1.34304
+- `22451` 103.69561,1.33817 ⮕ 103.69561,1.33836
+- `22499` 103.70463,1.33771 ⮕ 103.7048,1.33769
+- `22521` 103.69777,1.33742 ⮕ 103.69784,1.33749
+- `22531` 103.69814,1.33923 ⮕ 103.69821,1.33921
+- `22539` 103.69839,1.3392 ⮕ 103.69833,1.33922
+- `22599` 103.70345,1.34436 ⮕ 103.70343,1.34436
+- `27121` 103.69521,1.35682 ⮕ 103.69574,1.35635
+- `27171` 103.69168,1.35605 ⮕ 103.69146,1.35613
+- `27199` 103.68686,1.35434 ⮕ 103.6864,1.35352
+- `28509` 103.72654,1.35003 ⮕ 103.72653,1.35
+- `28571` 103.72542,1.35242 ⮕ 103.72544,1.35239
+- `40231` 103.82577,1.32231 ⮕ 103.8257,1.32211
+- `43409` 103.74624,1.35236 ⮕ 103.74702,1.35244
+- `43579` 103.75167,1.35912 ⮕ 103.75168,1.35884
+- `44549` 103.74619,1.38749 ⮕ 103.74619,1.38721
+- `44791` 103.76069,1.38372 ⮕ 103.76075,1.38369
+- `46051` 103.76641,1.43897 ⮕ 103.76639,1.43884
+- `46059` 103.76656,1.43875 ⮕ 103.76664,1.43891
+- `46069` 103.76934,1.44289 ⮕ 103.76936,1.44278
+- `46101` 103.76775,1.44461 ⮕ 103.76854,1.44616
+- `46109` 103.76925,1.44694 ⮕ 103.76868,1.44571
+- `46211` 103.76548,1.46492 ⮕ 103.76751,1.4657
+- `46219` 103.76827,1.46543 ⮕ 103.76662,1.46491
+- `46239` 103.74403,1.4939 ⮕ 103.74307,1.49552
+- `46509` 103.77096,1.43804 ⮕ 103.77105,1.43885
+- `46519` 103.77214,1.43555 ⮕ 103.77222,1.4355
+- `47539` 103.79797,1.42938 ⮕ 103.79799,1.42936
+- `47561` 103.79842,1.43321 ⮕ 103.79838,1.43316
+- `47711` 103.76442,1.46346 ⮕ 103.76498,1.46349
+- `51069` 103.8366,1.34126 ⮕ 103.83665,1.34108
+- `51089` 103.83963,1.34155 ⮕ 103.83933,1.34163
+- `51139` 103.84032,1.34437 ⮕ 103.83967,1.34399
+- `53119` 103.83945,1.34706 ⮕ 103.83926,1.34668
+- `54059` 103.84498,1.37628 ⮕ 103.8451,1.37468
+- `55509` 103.84556,1.38113 ⮕ 103.84471,1.38262
+- `57079` 103.82567,1.42444 ⮕ 103.82559,1.42401
+- `58139` 103.82075,1.45638 ⮕ 103.82076,1.45645
+- `58161` 103.82037,1.46053 ⮕ 103.82034,1.4605
+- `59091` 103.83511,1.43165 ⮕ 103.83518,1.43193
+- `59161` 103.83793,1.43015 ⮕ 103.83783,1.43023
+- `62049` 103.88023,1.34904 ⮕ 103.88038,1.34867
+- `62051` 103.87775,1.3517 ⮕ 103.87778,1.35178
+- `64051` 103.89777,1.3724 ⮕ 103.89778,1.37238
+- `64249` 103.89589,1.36809 ⮕ 103.89581,1.36808
+- `64391` 103.88977,1.37145 ⮕ 103.88983,1.37161
+- `65021` 103.89961,1.38403 ⮕ 103.89962,1.38396
+- `65031` 103.90162,1.38714 ⮕ 103.90168,1.38714
+- `65039` 103.90186,1.38732 ⮕ 103.90183,1.38705
+- `65041` 103.90162,1.38984 ⮕ 103.90166,1.38987
+- `65159` 103.90665,1.39857 ⮕ 103.90608,1.3991
+- `65201` 103.90358,1.40083 ⮕ 103.90295,1.40108
+- `65319` 103.91245,1.40258 ⮕ 103.91218,1.40281
+- `65371` 103.91627,1.40289 ⮕ 103.91632,1.40301
+- `65379` 103.91634,1.40281 ⮕ 103.91643,1.40289
+- `65399` 103.9126,1.4058 ⮕ 103.91252,1.40569
+- `65549` 103.8912,1.40352 ⮕ 103.89105,1.4035
+- `65559` 103.8925,1.40405 ⮕ 103.89252,1.40412
+- `65691` 103.91196,1.42015 ⮕ 103.91196,1.42018
+- `66011` 103.85998,1.34717 ⮕ 103.86,1.34723
+- `66019` 103.8604,1.34603 ⮕ 103.86035,1.34602
+- `66329` 103.87229,1.36602 ⮕ 103.87241,1.36614
+- `66399` 103.86313,1.35154 ⮕ 103.86324,1.35152
+- `66421` 103.87341,1.37366 ⮕ 103.87357,1.37356
+- `66539` 103.87502,1.375 ⮕ 103.87491,1.3751
+- `70151` 103.88096,1.32768 ⮕ 103.88125,1.32767
+- `70161` 103.88325,1.32759 ⮕ 103.88248,1.3273
+- `75269` 103.93814,1.35917 ⮕ 103.93815,1.3586
+- `76049` 103.93633,1.35118 ⮕ 103.93644,1.35145
+- `80149` 103.87981,1.3075 ⮕ 103.87966,1.30755
+- `84061` 103.94223,1.32585 ⮕ 103.94194,1.32577
+- `94049` 103.94482,1.31616 ⮕ 103.94483,1.31623
+- `96249` 103.96653,1.32824 ⮕ 103.96683,1.32796
+- `98061` 103.97717,1.37653 ⮕ 103.97679,1.37641
+- `01549` 103.85873,1.3007 ⮕ 103.85856,1.30069
+- `01559` 103.85753,1.30169 ⮕ 103.85746,1.30162
+- `04331` 103.84504,1.29184 ⮕ 103.84496,1.29198
+- `05431` 103.84205,1.27408 ⮕ 103.84185,1.27404
+- `05641` 103.84141,1.27272 ⮕ 103.84135,1.27261
+- `07529` 103.85502,1.30432 ⮕ 103.85479,1.30453
+- `07561` 103.85268,1.29945 ⮕ 103.85272,1.2995
+- `07571` 103.85114,1.30063 ⮕ 103.85117,1.30069
+
+## Services count change: 604 ⮕ 605
+
+### Services added: 4
+
+- `461` Bet Blks 405/406 / Opp Blk 406 ⇄ Bef Khatib Stn / Opp Khatib Stn
+- `S41` MacPherson S41 Boarding / Opp MacPherson Stn Exit A ⇄ Expo Stn Exit E / Expo Stn Exit B
+- `S42` Aft Bugis Stn Exit C / Bugis Stn Exit D ⇄ MacPherson Stn Exit A / Opp MacPherson Stn Exit A
+- `S43` Bt Panjang Stn Exit A/LRT / Bt Panjang Stn Exit B ⇄ Bugis Stn Exit B / Bugis Stn Exit D
+
+### Services removed: 3
+
+- `S53` Marina Bay Financial Ctr / Marina Bay Stn ⇄ Opp Bayshore Stn Exit 3 / Bef Bayshore Stn Exit 3
+- `S52` Lighthouse Sch / Bef Caldecott Stn Exit 3 ⇄ Marina Bay Financial Ctr / Marina Bay Stn
+- `S51` W'lands Nth Stn ⇄ Lighthouse Sch / Bef Caldecott Stn Exit 3
+
+### Bus Stop Changes To Routes: 30
+
+- `961M` Woodlands Temp Int ⇄ Lor 1 Geylang Ter: -2
+- `70M` Yio Chu Kang Int ⟲ Opp The Ritz-Carlton: -1
+- `36A` Changi Airport Ter 2 → Aft Cuscaden Rd: -1
+- `857` Yishun Int ⟲ Opp The Ritz-Carlton: -1
+- `181` Boon Lay Int ⇄ Tengah Int: +14, -2
+- `97` Tengah Int ⇄ Promenade Stn/Pan Pacific / Aft S'pore Flyer: -1
+- `77` Bt Batok Int ⇄ Promenade Stn/Pan Pacific / Aft S'pore Flyer: -1
+- `56` Bishan Int ⇄ Promenade Stn/Pan Pacific / Aft S'pore Flyer: -1
+- `18` Tampines Nth Int ⇄ SBST Bedok Nth Depot / Opp SBST Bedok Nth Depot: -2
+- `36` Changi Airport Ter 2 ⟲ Orchard Stn Exit 13: -1
+- `106` Bt Batok Int ⇄ Shenton Way Ter: -1
+- `111` Ghim Moh Ter ⟲ The Esplanade: -1
+- `133` Ang Mo Kio Int ⇄ Shenton Way Ter: +1, -1
+- `195` Aft S'pore Flyer → Promenade Stn/Pan Pacific: -1
+- `960` Woodlands Int ⇄ Promenade Stn/Pan Pacific / Aft S'pore Flyer: -1
+- `195A` Aft S'pore Flyer → Tiong Bahru Stn/Plaza: -1
+- `36B` Lagoon View → Bef Seaside Residences: -1
+- `960e` Woodlands Int ⇄ Promenade Stn/Pan Pacific / Aft S'pore Flyer: -1
+- `97e` Tengah Int ⇄ Promenade Stn/Pan Pacific / Aft S'pore Flyer: -1
+- `258` Joo Koon Int ⟲ Opp Blk 662C: +2, -2
+- `502` Soon Lee Bus Pk ⟲ Raffles Hotel: +2, -2
+- `647` Blk 347 / Opp Blk 347 ⇄ Aft Promenade Stn Exit C / Suntec Convention Ctr: +1, -1
+- `651` Opp Blk 276B / Blk 276B ⇄ Marina Bay Financial Ctr / Marina Bay Stn: +2, -2
+- `181A` Boon Lay Int → Blk 276B: +1, -1
+- `181M` Boon Lay Int ⟲ Blk 276B: +2, -2
+- `243G` Boon Lay Int ⟲ Blk 827: +1, -1
+- `243W` Boon Lay Int ⟲ Blk 844A CP: +1, -1
+- `258M` Joo Koon Int ⟲ Boon Lay CC: +2, -2
+- `502A` Soon Lee Bus Pk → Downtown Stn Exit E: +1, -1
+- `972A` Bt Panjang Int → Dhoby Ghaut Stn: +2, -1
+
+## Routes changed: 15
+
+- `181` Boon Lay Int ⇄ Tengah Int
+- `201` Kent Ridge Ter ⟲ Opp Blk 41
+- `502` Soon Lee Bus Pk ⟲ Raffles Hotel
+- `651` Opp Blk 276B / Blk 276B ⇄ Marina Bay Financial Ctr / Marina Bay Stn
+- `181A` Boon Lay Int → Blk 276B
+- `181M` Boon Lay Int ⟲ Blk 276B
+- `18A` Tampines Nth Int → Tampines East Stn Exit D
+- `243W` Boon Lay Int ⟲ Blk 844A CP
+- `258M` Joo Koon Int ⟲ Boon Lay CC
+- `502A` Soon Lee Bus Pk → Downtown Stn Exit E
+- `807C` Opp Khatib Stn Exit D → Opp Blk 445
+- `461` Bet Blks 405/406 / Opp Blk 406 ⇄ Bef Khatib Stn / Opp Khatib Stn
+- `S41` MacPherson S41 Boarding / Opp MacPherson Stn Exit A ⇄ Expo Stn Exit E / Expo Stn Exit B
+- `S42` Aft Bugis Stn Exit C / Bugis Stn Exit D ⇄ MacPherson Stn Exit A / Opp MacPherson Stn Exit A
+- `S43` Bt Panjang Stn Exit A/LRT / Bt Panjang Stn Exit B ⇄ Bugis Stn Exit B / Bugis Stn Exit D
+
+## First/last timings changed
+
+Affected services: `S53`, `S51`, `S52`, `4`, `10`, `18`, `19`, `20`, `21`, `23`, `27`, `28`, `29`, `31`, `36`, `37`, `38`, `39`, `46`, `47`, `56`, `59`, `65`, `69`, `71`, `72`, `73`, `77`, `81`, `88`, `97`, `105`, `106`, `111`, `114`, `125`, `127`, `129`, `132`, `133`, `159`, `168`, `181`, `195`, `201`, `258`, `291`, `292`, `293`, `296`, `298`, `299`, `325`, `372`, `454`, `460`, `502`, `646`, `647`, `651`, `800`, `804`, `811`, `857`, `960`, `974`, `961M`, `195A`, `97e`, `502A`, `974A`, `258M`, `181A`, `181M`, `243G`, `243W`, `851e`, `960e`, `972A`, `72A`, `72B`, `70M`, `127A`, `29A`, `10e`, `36B`, `36A`, `461`, `S43`, `S42`, `S41`
+
 # 1 July 2026
 
 ## Stops count change: 5201 ⮕ 5205

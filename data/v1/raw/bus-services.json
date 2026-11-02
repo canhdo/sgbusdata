@@ -498,17 +498,6 @@
 		]
 	},
 	{
-		"number": 565,
-		"description": "Ah Hood Road to Phillip Street",
-		"type": "PREMIUM",
-		"kmlFile": [
-			"565-1.kml"
-		],
-		"routeFile": [
-			"565.xml"
-		]
-	},
-	{
 		"number": 574,
 		"description": "Upper Serangoon Road - Anson Road",
 		"type": "PREMIUM",
@@ -521,7 +510,7 @@
 	},
 	{
 		"number": 575,
-		"description": "Sengkang East Road to Upper Cross Street",
+		"description": "Buangkok Green to Cecil Street",
 		"type": "PREMIUM",
 		"kmlFile": [
 			"575-1.kml"
@@ -646,18 +635,6 @@
 		],
 		"routeFile": [
 			"740.xml"
-		]
-	},
-	{
-		"number": 742,
-		"description": "Ang Mo Kio Avenue 3 - Changi Business Park",
-		"type": "PREMIUM",
-		"kmlFile": [
-			"742-1.kml",
-			"742-2.kml"
-		],
-		"routeFile": [
-			"742.xml"
 		]
 	},
 	{
@@ -3462,7 +3439,8 @@
 		"number": 291,
 		"type": "TRUNK",
 		"kmlFile": [
-			"291-1.kml"
+			"291-1.kml",
+			"291-2.kml"
 		],
 		"routeFile": [
 			"291.xml"
@@ -3482,7 +3460,8 @@
 		"number": 293,
 		"type": "TRUNK",
 		"kmlFile": [
-			"293-1.kml"
+			"293-1.kml",
+			"293-2.kml"
 		],
 		"routeFile": [
 			"293.xml"
@@ -3604,7 +3583,8 @@
 		"number": 307,
 		"type": "TRUNK",
 		"kmlFile": [
-			"307-1.kml"
+			"307-1.kml",
+			"307-2.kml"
 		],
 		"routeFile": [
 			"307.xml"
@@ -3838,7 +3818,8 @@
 		"number": 358,
 		"type": "TRUNK",
 		"kmlFile": [
-			"358-1.kml"
+			"358-1.kml",
+			"358-2.kml"
 		],
 		"routeFile": [
 			"358.xml"
@@ -3949,7 +3930,8 @@
 		"number": 381,
 		"type": "TRUNK",
 		"kmlFile": [
-			"381-1.kml"
+			"381-1.kml",
+			"381-2.kml"
 		],
 		"routeFile": [
 			"381.xml"
@@ -4346,6 +4328,17 @@
 		],
 		"routeFile": [
 			"460.xml"
+		]
+	},
+	{
+		"number": 461,
+		"type": "TRUNK",
+		"kmlFile": [
+			"461-1.kml",
+			"461-2.kml"
+		],
+		"routeFile": [
+			"461.xml"
 		]
 	},
 	{
@@ -5604,6 +5597,16 @@
 		]
 	},
 	{
+		"number": "861C",
+		"type": "TRUNK",
+		"kmlFile": [
+			"861C-1.kml"
+		],
+		"routeFile": [
+			"861C.xml"
+		]
+	},
+	{
 		"number": "861M",
 		"type": "TRUNK",
 		"kmlFile": [
@@ -5693,6 +5696,36 @@
 		],
 		"routeFile": [
 			"872A.xml"
+		]
+	},
+	{
+		"number": 873,
+		"type": "TRUNK",
+		"kmlFile": [
+			"873-1.kml"
+		],
+		"routeFile": [
+			"873.xml"
+		]
+	},
+	{
+		"number": "873M",
+		"type": "TRUNK",
+		"kmlFile": [
+			"873M-1.kml"
+		],
+		"routeFile": [
+			"873M.xml"
+		]
+	},
+	{
+		"number": 874,
+		"type": "TRUNK",
+		"kmlFile": [
+			"874-1.kml"
+		],
+		"routeFile": [
+			"874.xml"
 		]
 	},
 	{
@@ -6776,59 +6809,6 @@
 		],
 		"routeFile": [
 			"9B.xml"
-		]
-	},
-	{
-		"number": "S51",
-		"type": "TRUNK",
-		"kmlFile": [
-			"S51-1.kml",
-			"S51-2.kml"
-		],
-		"routeFile": [
-			"S51.xml"
-		]
-	},
-	{
-		"number": "S52",
-		"type": "TRUNK",
-		"kmlFile": [
-			"S52-1.kml",
-			"S52-2.kml"
-		],
-		"routeFile": [
-			"S52.xml"
-		]
-	},
-	{
-		"number": "S53",
-		"type": "TRUNK",
-		"kmlFile": [
-			"S53-1.kml",
-			"S53-2.kml"
-		],
-		"routeFile": [
-			"S53.xml"
-		]
-	},
-	{
-		"number": "SWA",
-		"type": "TRUNK",
-		"kmlFile": [
-			"SWA-1.kml"
-		],
-		"routeFile": [
-			"SWA.xml"
-		]
-	},
-	{
-		"number": "SWB",
-		"type": "TRUNK",
-		"kmlFile": [
-			"SWB-1.kml"
-		],
-		"routeFile": [
-			"SWB.xml"
 		]
 	}
 ]
